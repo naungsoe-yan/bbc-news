@@ -1,0 +1,147 @@
+{
+  "title": "BBC Learning English from the News 2025 — Quiz 3",
+  "description": "Choose the best answer for each question about vocabulary and usage.",
+  "showProgressBar": true,
+  "pages": [
+    {
+      "name": "part_1",
+      "elements": [
+        {
+          "type": "radiogroup",
+          "name": "q021_above_the_law",
+          "title": "When someone acts as if ordinary rules cannot be enforced against them, they act as if they are ___.",
+          "isRequired": true,
+          "choices": [
+            "out of luck",
+            "within their rights",
+            "above the law",
+            "under review"
+          ],
+          "correctAnswer": "above the law"
+        },
+        {
+          "type": "radiogroup",
+          "name": "q022_major_player",
+          "title": "With almost half the market, the company is a ___ in the industry.",
+          "isRequired": true,
+          "choices": [
+            "major player",
+            "new arrival",
+            "silent observer",
+            "minor supplier"
+          ],
+          "correctAnswer": "major player"
+        },
+        {
+          "type": "radiogroup",
+          "name": "q023_point",
+          "title": "“What's the ___ of buying a second ticket if you're going alone?”",
+          "isRequired": true,
+          "choices": [
+            "source",
+            "point",
+            "price",
+            "timing"
+          ],
+          "correctAnswer": "point"
+        },
+        {
+          "type": "radiogroup",
+          "name": "q024_muted",
+          "title": "Her announcement received a ___ response, with only a few polite claps.",
+          "isRequired": true,
+          "choices": [
+            "muted",
+            "thunderous",
+            "jubilant",
+            "raucous"
+          ],
+          "correctAnswer": "muted"
+        },
+        {
+          "type": "radiogroup",
+          "name": "q025_alarming",
+          "title": "The inspector found an ___ crack in a main support beam and closed the building immediately.",
+          "isRequired": true,
+          "choices": [
+            "reassuring",
+            "alarming",
+            "welcome",
+            "cosmetic"
+          ],
+          "correctAnswer": "alarming"
+        }
+      ]
+    },
+    {
+      "name": "part_2",
+      "elements": [
+        {
+          "type": "radiogroup",
+          "name": "q026_spell_trouble",
+          "title": "A sudden fall in income could ___ for the shop if it can no longer pay its rent.",
+          "isRequired": true,
+          "choices": [
+            "pay dividends",
+            "clear the air",
+            "bring relief",
+            "spell trouble"
+          ],
+          "correctAnswer": "spell trouble"
+        },
+        {
+          "type": "radiogroup",
+          "name": "q027_whodunnit",
+          "title": "The novel is a ___ in which readers try to guess who stole the painting.",
+          "isRequired": true,
+          "choices": [
+            "travelogue",
+            "whodunnit",
+            "cookbook",
+            "memoir"
+          ],
+          "correctAnswer": "whodunnit"
+        },
+        {
+          "type": "radiogroup",
+          "name": "q028_make_landfall",
+          "title": "The storm is expected to ___ on the coast tomorrow morning.",
+          "isRequired": true,
+          "choices": [
+            "lose track",
+            "make landfall",
+            "stand still",
+            "run dry"
+          ],
+          "correctAnswer": "make landfall"
+        },
+        {
+          "type": "radiogroup",
+          "name": "q029_fuel",
+          "title": "The generator uses diesel to ___ its engine.",
+          "isRequired": true,
+          "choices": [
+            "cool",
+            "fuel",
+            "service",
+            "replace"
+          ],
+          "correctAnswer": "fuel"
+        },
+        {
+          "type": "radiogroup",
+          "name": "q030_the_eye_of_the_storm",
+          "title": "At the very centre of the storm, known as the ___, conditions were briefly calm.",
+          "isRequired": true,
+          "choices": [
+            "wake",
+            "front",
+            "eye",
+            "edge"
+          ],
+          "correctAnswer": "eye"
+        }
+      ]
+    }
+  ]
+}

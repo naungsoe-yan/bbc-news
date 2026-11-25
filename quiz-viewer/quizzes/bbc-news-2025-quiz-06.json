@@ -1,0 +1,147 @@
+{
+  "title": "BBC Learning English from the News 2025 — Quiz 6",
+  "description": "Choose the best answer for each question about vocabulary and usage.",
+  "showProgressBar": true,
+  "pages": [
+    {
+      "name": "part_1",
+      "elements": [
+        {
+          "type": "radiogroup",
+          "name": "q051_evangelise",
+          "title": "She loved the software so much that she began to ___ about it, urging everyone she met to try it.",
+          "isRequired": true,
+          "choices": [
+            "apologise",
+            "evangelise",
+            "complain",
+            "speculate"
+          ],
+          "correctAnswer": "evangelise"
+        },
+        {
+          "type": "radiogroup",
+          "name": "q052_shattered",
+          "title": "The impact left the windscreen ___ into hundreds of pieces.",
+          "isRequired": true,
+          "choices": [
+            "fogged",
+            "scratched",
+            "polished",
+            "shattered"
+          ],
+          "correctAnswer": "shattered"
+        },
+        {
+          "type": "radiogroup",
+          "name": "q053_underway",
+          "title": "Work is already ___, and the first phase should be complete next week.",
+          "isRequired": true,
+          "choices": [
+            "abandoned",
+            "underway",
+            "cancelled",
+            "proposed"
+          ],
+          "correctAnswer": "underway"
+        },
+        {
+          "type": "radiogroup",
+          "name": "q054_a_perfect_storm",
+          "title": "Heavy rain, a power cut and a blocked drain created ___ for the shop's basement.",
+          "isRequired": true,
+          "choices": [
+            "a lucky break",
+            "a simple fix",
+            "a routine check",
+            "a perfect storm"
+          ],
+          "correctAnswer": "a perfect storm"
+        },
+        {
+          "type": "radiogroup",
+          "name": "q055_age",
+          "title": "Exposure to sunlight can make some materials ___ faster and look worn before their time.",
+          "isRequired": true,
+          "choices": [
+            "swell",
+            "age",
+            "shine",
+            "stretch"
+          ],
+          "correctAnswer": "age"
+        }
+      ]
+    },
+    {
+      "name": "part_2",
+      "elements": [
+        {
+          "type": "radiogroup",
+          "name": "q056_accelerate",
+          "title": "The train began to ___, gaining speed as it left the station.",
+          "isRequired": true,
+          "choices": [
+            "accelerate",
+            "idle",
+            "slow",
+            "reverse"
+          ],
+          "correctAnswer": "accelerate"
+        },
+        {
+          "type": "radiogroup",
+          "name": "q057_demographic",
+          "title": "The survey focused on a single ___: adults aged 18 to 24.",
+          "isRequired": true,
+          "choices": [
+            "method",
+            "demographic",
+            "deadline",
+            "venue"
+          ],
+          "correctAnswer": "demographic"
+        },
+        {
+          "type": "radiogroup",
+          "name": "q058_crunch_talks",
+          "title": "With the deadline tomorrow and no agreement in sight, the two sides held ___ to settle the issue.",
+          "isRequired": true,
+          "choices": [
+            "crunch talks",
+            "casual chats",
+            "opening remarks",
+            "victory speeches"
+          ],
+          "correctAnswer": "crunch talks"
+        },
+        {
+          "type": "radiogroup",
+          "name": "q059_head_something_off",
+          "title": "An early apology can ___ an argument before it starts.",
+          "isRequired": true,
+          "choices": [
+            "head off",
+            "stir up",
+            "give in to",
+            "drag out"
+          ],
+          "correctAnswer": "head off"
+        },
+        {
+          "type": "radiogroup",
+          "name": "q060_takeaway",
+          "title": "My main ___ from the workshop was that small daily changes matter more than one big effort.",
+          "isRequired": true,
+          "choices": [
+            "rumour",
+            "objection",
+            "takeaway",
+            "digression"
+          ],
+          "correctAnswer": "takeaway"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,147 @@
+{
+  "title": "BBC Learning English from the News 2026 — Quiz 8",
+  "description": "Choose the best answer for each question about vocabulary and usage.",
+  "showProgressBar": true,
+  "pages": [
+    {
+      "name": "part_1",
+      "elements": [
+        {
+          "type": "radiogroup",
+          "name": "q071_at_play",
+          "title": "Several factors are ___ here, including rising costs and falling demand.",
+          "isRequired": true,
+          "choices": [
+            "out of sight",
+            "at rest",
+            "at play",
+            "on hold"
+          ],
+          "correctAnswer": "at play"
+        },
+        {
+          "type": "radiogroup",
+          "name": "q072_come_at_a_cost",
+          "title": "The new system saves time, but the convenience comes ___: it uses more energy.",
+          "isRequired": true,
+          "choices": [
+            "in handy",
+            "at a cost",
+            "by chance",
+            "to an end"
+          ],
+          "correctAnswer": "at a cost"
+        },
+        {
+          "type": "radiogroup",
+          "name": "q073_preparednes",
+          "title": "Weekly drills improved the team's ___ for an emergency.",
+          "isRequired": true,
+          "choices": [
+            "hesitation",
+            "reluctance",
+            "preparedness",
+            "confusion"
+          ],
+          "correctAnswer": "preparedness"
+        },
+        {
+          "type": "radiogroup",
+          "name": "q074_double_whammy",
+          "title": "The shop lost power and its freezer failed on the same day. The owner described it as a ___.",
+          "isRequired": true,
+          "choices": [
+            "single setback",
+            "welcome change",
+            "double whammy",
+            "stroke of luck"
+          ],
+          "correctAnswer": "double whammy"
+        },
+        {
+          "type": "radiogroup",
+          "name": "q075_hanging_over",
+          "title": "The unresolved threat of closure is still ___ the library and worrying its staff.",
+          "isRequired": true,
+          "choices": [
+            "hanging over",
+            "falling away from",
+            "settling down in",
+            "moving on from"
+          ],
+          "correctAnswer": "hanging over"
+        }
+      ]
+    },
+    {
+      "name": "part_2",
+      "elements": [
+        {
+          "type": "radiogroup",
+          "name": "q076_overwhelming_consensus",
+          "title": "Nearly every member agreed on the recommendation, producing an ___.",
+          "isRequired": true,
+          "choices": [
+            "even split",
+            "overwhelming consensus",
+            "unresolved dispute",
+            "isolated objection"
+          ],
+          "correctAnswer": "overwhelming consensus"
+        },
+        {
+          "type": "radiogroup",
+          "name": "q077_behind_the_curve",
+          "title": "Other schools updated their systems years ago, but this one has fallen ___ and still uses old equipment.",
+          "isRequired": true,
+          "choices": [
+            "into step",
+            "into the lead",
+            "ahead of the pack",
+            "behind the curve"
+          ],
+          "correctAnswer": "behind the curve"
+        },
+        {
+          "type": "radiogroup",
+          "name": "q078_nothing_s_off_the_table",
+          "title": "“Nothing's off the table yet.” What does this mean during a discussion?",
+          "isRequired": true,
+          "choices": [
+            "A final decision has already been made.",
+            "Every option is still being considered.",
+            "The group has stopped accepting ideas.",
+            "Certain options have been rejected permanently."
+          ],
+          "correctAnswer": "Every option is still being considered."
+        },
+        {
+          "type": "radiogroup",
+          "name": "q079_erupt",
+          "title": "As the winner was announced, celebrations began to ___ all over town without warning.",
+          "isRequired": true,
+          "choices": [
+            "dwindle",
+            "subside",
+            "fade",
+            "erupt"
+          ],
+          "correctAnswer": "erupt"
+        },
+        {
+          "type": "radiogroup",
+          "name": "q080_undetected",
+          "title": "The error went ___ for months because nobody examined the records closely.",
+          "isRequired": true,
+          "choices": [
+            "undetected",
+            "exposed",
+            "diagnosed",
+            "reported"
+          ],
+          "correctAnswer": "undetected"
+        }
+      ]
+    }
+  ]
+}

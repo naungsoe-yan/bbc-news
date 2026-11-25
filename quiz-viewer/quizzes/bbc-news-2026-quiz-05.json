@@ -1,0 +1,147 @@
+{
+  "title": "BBC Learning English from the News 2026 — Quiz 5",
+  "description": "Choose the best answer for each question about vocabulary and usage.",
+  "showProgressBar": true,
+  "pages": [
+    {
+      "name": "part_1",
+      "elements": [
+        {
+          "type": "radiogroup",
+          "name": "q041_astronomical",
+          "title": "The repairs would cost an ___ sum, far beyond anything the owners could afford.",
+          "isRequired": true,
+          "choices": [
+            "negligible",
+            "modest",
+            "astronomical",
+            "nominal"
+          ],
+          "correctAnswer": "astronomical"
+        },
+        {
+          "type": "radiogroup",
+          "name": "q042_reckoning",
+          "title": "Years of ignored complaints finally led to a ___, as an inquiry exposed failures and managers faced consequences.",
+          "isRequired": true,
+          "choices": [
+            "reckoning",
+            "celebration",
+            "clean slate",
+            "reprieve"
+          ],
+          "correctAnswer": "reckoning"
+        },
+        {
+          "type": "radiogroup",
+          "name": "q043_golden_age",
+          "title": "During the town's ___ of filmmaking, local studios thrived and produced many celebrated films.",
+          "isRequired": true,
+          "choices": [
+            "long decline",
+            "low point",
+            "golden age",
+            "quiet spell"
+          ],
+          "correctAnswer": "golden age"
+        },
+        {
+          "type": "radiogroup",
+          "name": "q044_flock",
+          "title": "Birdwatchers often ___ to the reserve when the rare birds arrive.",
+          "isRequired": true,
+          "choices": [
+            "disperse",
+            "flock",
+            "scatter",
+            "stay away"
+          ],
+          "correctAnswer": "flock"
+        },
+        {
+          "type": "radiogroup",
+          "name": "q045_knock_off",
+          "title": "The bag looked like a designer original, but its label and stitching showed it was a ___.",
+          "isRequired": true,
+          "choices": [
+            "genuine article",
+            "knock-off",
+            "limited original",
+            "prototype"
+          ],
+          "correctAnswer": "knock-off"
+        }
+      ]
+    },
+    {
+      "name": "part_2",
+      "elements": [
+        {
+          "type": "radiogroup",
+          "name": "q046_runaway",
+          "title": "The novel became a ___ success, selling far more copies than anyone had predicted.",
+          "isRequired": true,
+          "choices": [
+            "qualified",
+            "modest",
+            "runaway",
+            "limited"
+          ],
+          "correctAnswer": "runaway"
+        },
+        {
+          "type": "radiogroup",
+          "name": "q047_whipped_up",
+          "title": "The speaker's dramatic claims ___ fear in the audience and made people more anxious.",
+          "isRequired": true,
+          "choices": [
+            "wore off",
+            "held back",
+            "whipped up",
+            "calmed down"
+          ],
+          "correctAnswer": "whipped up"
+        },
+        {
+          "type": "radiogroup",
+          "name": "q048_push_something_up_the_agenda",
+          "title": "The latest breakdown pushed repairs ___ the agenda, making them the first item for discussion.",
+          "isRequired": true,
+          "choices": [
+            "around",
+            "up",
+            "off",
+            "past"
+          ],
+          "correctAnswer": "up"
+        },
+        {
+          "type": "radiogroup",
+          "name": "q049_jump_ship",
+          "title": "When the organisation ran into trouble, several senior staff decided to ___ and join another employer.",
+          "isRequired": true,
+          "choices": [
+            "hold the line",
+            "jump ship",
+            "dig in",
+            "stay put"
+          ],
+          "correctAnswer": "jump ship"
+        },
+        {
+          "type": "radiogroup",
+          "name": "q050_mourn",
+          "title": "Longtime readers gathered to ___ the loss of the local newspaper after its final issue.",
+          "isRequired": true,
+          "choices": [
+            "ignore",
+            "welcome",
+            "celebrate",
+            "mourn"
+          ],
+          "correctAnswer": "mourn"
+        }
+      ]
+    }
+  ]
+}

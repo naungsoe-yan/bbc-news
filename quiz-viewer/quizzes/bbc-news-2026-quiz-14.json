@@ -1,0 +1,147 @@
+{
+  "title": "BBC Learning English from the News 2026 — Quiz 14",
+  "description": "Choose the best answer for each question about vocabulary and usage.",
+  "showProgressBar": true,
+  "pages": [
+    {
+      "name": "part_1",
+      "elements": [
+        {
+          "type": "radiogroup",
+          "name": "q131_double_edged_sword",
+          "title": "Living near the station is a ___: the commute is easy, but the trains are noisy.",
+          "isRequired": true,
+          "choices": [
+            "minor detail",
+            "clear-cut advantage",
+            "win-win situation",
+            "double-edged sword"
+          ],
+          "correctAnswer": "double-edged sword"
+        },
+        {
+          "type": "radiogroup",
+          "name": "q132_rebuke",
+          "title": "The chair issued a sharp ___ after a member interrupted several speakers.",
+          "isRequired": true,
+          "choices": [
+            "compliment",
+            "endorsement",
+            "rebuke",
+            "invitation"
+          ],
+          "correctAnswer": "rebuke"
+        },
+        {
+          "type": "radiogroup",
+          "name": "q133_harrowing",
+          "title": "The survivor gave a ___ account of the ordeal, leaving many listeners upset.",
+          "isRequired": true,
+          "choices": [
+            "light-hearted",
+            "amusing",
+            "soothing",
+            "harrowing"
+          ],
+          "correctAnswer": "harrowing"
+        },
+        {
+          "type": "radiogroup",
+          "name": "q134_thirsty_for",
+          "title": "After years of delay, the fans were ___ news of a release date.",
+          "isRequired": true,
+          "choices": [
+            "uninterested in",
+            "thirsty for",
+            "suspicious of",
+            "content without"
+          ],
+          "correctAnswer": "thirsty for"
+        },
+        {
+          "type": "radiogroup",
+          "name": "q135_weigh",
+          "title": "Before deciding, the committee will ___ the costs and benefits of each option.",
+          "isRequired": true,
+          "choices": [
+            "conceal",
+            "weigh",
+            "ignore",
+            "discard"
+          ],
+          "correctAnswer": "weigh"
+        }
+      ]
+    },
+    {
+      "name": "part_2",
+      "elements": [
+        {
+          "type": "radiogroup",
+          "name": "q136_someone_s_fate_lies_with_someone_or_something",
+          "title": "“The team's fate lies with the panel.” What does this mean?",
+          "isRequired": true,
+          "choices": [
+            "The team will vote on the panel's future.",
+            "The team's future is already secure.",
+            "The panel cannot influence the outcome.",
+            "The team's future depends on what the panel decides."
+          ],
+          "correctAnswer": "The team's future depends on what the panel decides."
+        },
+        {
+          "type": "radiogroup",
+          "name": "q137_thorny",
+          "title": "How to divide limited funding fairly is a ___ issue with no simple answer.",
+          "isRequired": true,
+          "choices": [
+            "thorny",
+            "trivial",
+            "straightforward",
+            "routine"
+          ],
+          "correctAnswer": "thorny"
+        },
+        {
+          "type": "radiogroup",
+          "name": "q138_plunge_someone_or_something_into_uncertainty",
+          "title": "The unexpected resignation could ___ the organisation into uncertainty about its future.",
+          "isRequired": true,
+          "choices": [
+            "lift",
+            "guide",
+            "plunge",
+            "rescue"
+          ],
+          "correctAnswer": "plunge"
+        },
+        {
+          "type": "radiogroup",
+          "name": "q139_bode_well",
+          "title": "Which form fits “Her quick response ___ well for the rest of the project”?",
+          "isRequired": true,
+          "choices": [
+            "bodes",
+            "boding",
+            "to bode",
+            "bode"
+          ],
+          "correctAnswer": "bodes"
+        },
+        {
+          "type": "radiogroup",
+          "name": "q140_lose_contact_with",
+          "title": "Which preposition fits “We lost contact ___ each other after graduation”?",
+          "isRequired": true,
+          "choices": [
+            "alongside",
+            "with",
+            "onto",
+            "throughout"
+          ],
+          "correctAnswer": "with"
+        }
+      ]
+    }
+  ]
+}

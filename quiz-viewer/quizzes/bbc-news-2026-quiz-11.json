@@ -1,0 +1,147 @@
+{
+  "title": "BBC Learning English from the News 2026 — Quiz 11",
+  "description": "Choose the best answer for each question about vocabulary and usage.",
+  "showProgressBar": true,
+  "pages": [
+    {
+      "name": "part_1",
+      "elements": [
+        {
+          "type": "radiogroup",
+          "name": "q101_find_liable",
+          "title": "The court found the company liable for the damage. What did the court decide?",
+          "isRequired": true,
+          "choices": [
+            "The company had already paid all its bills.",
+            "The company was legally responsible.",
+            "The company was free of any responsibility.",
+            "The company owned the damaged building."
+          ],
+          "correctAnswer": "The company was legally responsible."
+        },
+        {
+          "type": "radiogroup",
+          "name": "q102_reshape",
+          "title": "The new rail line could ___ the city by changing where people live and work.",
+          "isRequired": true,
+          "choices": [
+            "reshape",
+            "leave untouched",
+            "preserve",
+            "copy"
+          ],
+          "correctAnswer": "reshape"
+        },
+        {
+          "type": "radiogroup",
+          "name": "q103_imbalance",
+          "title": "One team had twice as many players as the other, creating an ___.",
+          "isRequired": true,
+          "choices": [
+            "equal share",
+            "equilibrium",
+            "even split",
+            "imbalance"
+          ],
+          "correctAnswer": "imbalance"
+        },
+        {
+          "type": "radiogroup",
+          "name": "q104_flashing_red",
+          "title": "When an analyst says several indicators are “flashing red”, what are those indicators doing?",
+          "isRequired": true,
+          "choices": [
+            "Measuring colour accurately",
+            "Warning of a serious problem",
+            "Showing that data collection has finished",
+            "Confirming everything is going well"
+          ],
+          "correctAnswer": "Warning of a serious problem"
+        },
+        {
+          "type": "radiogroup",
+          "name": "q105_swing",
+          "title": "Public opinion can ___ sharply from support to opposition after a major announcement.",
+          "isRequired": true,
+          "choices": [
+            "stabilise",
+            "settle",
+            "hold firm",
+            "swing"
+          ],
+          "correctAnswer": "swing"
+        }
+      ]
+    },
+    {
+      "name": "part_2",
+      "elements": [
+        {
+          "type": "radiogroup",
+          "name": "q106_ransack",
+          "title": "The intruder ___ the room looking for the keys, leaving drawers overturned and papers scattered.",
+          "isRequired": true,
+          "choices": [
+            "tidied",
+            "decorated",
+            "sealed",
+            "ransacked"
+          ],
+          "correctAnswer": "ransacked"
+        },
+        {
+          "type": "radiogroup",
+          "name": "q107_grapple_with",
+          "title": "The researchers are still trying to ___ a difficult question about why the results differed.",
+          "isRequired": true,
+          "choices": [
+            "grapple with",
+            "gloss over",
+            "sidestep",
+            "brush off"
+          ],
+          "correctAnswer": "grapple with"
+        },
+        {
+          "type": "radiogroup",
+          "name": "q108_exile",
+          "title": "The writer became an ___ after being forced to leave his country for political reasons.",
+          "isRequired": true,
+          "choices": [
+            "tourist",
+            "commuter",
+            "envoy",
+            "exile"
+          ],
+          "correctAnswer": "exile"
+        },
+        {
+          "type": "radiogroup",
+          "name": "q109_send_mixed_messages",
+          "title": "By urging staff to rest but praising them for working late, the manager sent ___.",
+          "isRequired": true,
+          "choices": [
+            "mixed messages",
+            "a single request",
+            "clear instructions",
+            "a consistent signal"
+          ],
+          "correctAnswer": "mixed messages"
+        },
+        {
+          "type": "radiogroup",
+          "name": "q110_centre_stage",
+          "title": "The transport dispute took ___ at the meeting, while other topics received little attention.",
+          "isRequired": true,
+          "choices": [
+            "a supporting role",
+            "a back seat",
+            "centre stage",
+            "second place"
+          ],
+          "correctAnswer": "centre stage"
+        }
+      ]
+    }
+  ]
+}

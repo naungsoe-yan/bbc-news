@@ -1,0 +1,147 @@
+{
+  "title": "BBC Learning English from the News 2026 — Quiz 6",
+  "description": "Choose the best answer for each question about vocabulary and usage.",
+  "showProgressBar": true,
+  "pages": [
+    {
+      "name": "part_1",
+      "elements": [
+        {
+          "type": "radiogroup",
+          "name": "q051_let_up",
+          "title": "The rain finally began to ___, so we were able to take down our umbrellas.",
+          "isRequired": true,
+          "choices": [
+            "pour down",
+            "pick up",
+            "set in",
+            "let up"
+          ],
+          "correctAnswer": "let up"
+        },
+        {
+          "type": "radiogroup",
+          "name": "q052_a_new_low",
+          "title": "Attendance hit ___ this winter, with fewer visitors than in any previous season.",
+          "isRequired": true,
+          "choices": [
+            "the usual average",
+            "an all-time high",
+            "the expected maximum",
+            "a new low"
+          ],
+          "correctAnswer": "a new low"
+        },
+        {
+          "type": "radiogroup",
+          "name": "q053_overtake",
+          "title": "The cyclist accelerated to ___ the rider in front and take the lead.",
+          "isRequired": true,
+          "choices": [
+            "overtake",
+            "follow",
+            "draft behind",
+            "trail"
+          ],
+          "correctAnswer": "overtake"
+        },
+        {
+          "type": "radiogroup",
+          "name": "q054_unsettled",
+          "title": "Plans remain ___: nobody knows whether the move will happen this month or next.",
+          "isRequired": true,
+          "choices": [
+            "confirmed",
+            "unsettled",
+            "final",
+            "fixed"
+          ],
+          "correctAnswer": "unsettled"
+        },
+        {
+          "type": "radiogroup",
+          "name": "q055_key",
+          "title": "Reliable transport was a ___ factor in choosing the venue: we ruled out every site that guests couldn't reach by bus or train.",
+          "isRequired": true,
+          "choices": [
+            "negligible",
+            "key",
+            "minor",
+            "irrelevant"
+          ],
+          "correctAnswer": "key"
+        }
+      ]
+    },
+    {
+      "name": "part_2",
+      "elements": [
+        {
+          "type": "radiogroup",
+          "name": "q056_associated",
+          "title": "The smell of fresh bread is closely ___ with memories of my grandmother's house.",
+          "isRequired": true,
+          "choices": [
+            "replaced",
+            "associated",
+            "compared",
+            "confused"
+          ],
+          "correctAnswer": "associated"
+        },
+        {
+          "type": "radiogroup",
+          "name": "q057_preserve",
+          "title": "The archive uses temperature-controlled storage to ___ old photographs in their original condition.",
+          "isRequired": true,
+          "choices": [
+            "preserve",
+            "alter",
+            "discard",
+            "crop"
+          ],
+          "correctAnswer": "preserve"
+        },
+        {
+          "type": "radiogroup",
+          "name": "q058_star_studded",
+          "title": "The awards show was ___, with famous performers in nearly every row.",
+          "isRequired": true,
+          "choices": [
+            "poorly attended",
+            "star-studded",
+            "low-profile",
+            "little-known"
+          ],
+          "correctAnswer": "star-studded"
+        },
+        {
+          "type": "radiogroup",
+          "name": "q059_pinch_me_moment",
+          "title": "Winning an award from her favourite writer felt like a ___: she could hardly believe it was real.",
+          "isRequired": true,
+          "choices": [
+            "regular occurrence",
+            "routine appointment",
+            "narrow escape",
+            "pinch-me moment"
+          ],
+          "correctAnswer": "pinch-me moment"
+        },
+        {
+          "type": "radiogroup",
+          "name": "q060_fill_the_gap",
+          "title": "With the main bridge closed, a temporary ferry was brought in to ___.",
+          "isRequired": true,
+          "choices": [
+            "widen the gap",
+            "end all crossings",
+            "delay repairs",
+            "fill the gap"
+          ],
+          "correctAnswer": "fill the gap"
+        }
+      ]
+    }
+  ]
+}

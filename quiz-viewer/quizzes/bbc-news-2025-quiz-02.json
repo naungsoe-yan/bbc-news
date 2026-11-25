@@ -1,0 +1,147 @@
+{
+  "title": "BBC Learning English from the News 2025 — Quiz 2",
+  "description": "Choose the best answer for each question about vocabulary and usage.",
+  "showProgressBar": true,
+  "pages": [
+    {
+      "name": "part_1",
+      "elements": [
+        {
+          "type": "radiogroup",
+          "name": "q011_tangible",
+          "title": "The training delivered ___ results: errors fell by half in the first month.",
+          "isRequired": true,
+          "choices": [
+            "hypothetical",
+            "imaginary",
+            "unmeasurable",
+            "tangible"
+          ],
+          "correctAnswer": "tangible"
+        },
+        {
+          "type": "radiogroup",
+          "name": "q012_crushing_weight",
+          "title": "She felt the ___ of having to support her whole family alone.",
+          "isRequired": true,
+          "choices": [
+            "slight inconvenience",
+            "pleasant thrill",
+            "crushing weight",
+            "gentle pull"
+          ],
+          "correctAnswer": "crushing weight"
+        },
+        {
+          "type": "radiogroup",
+          "name": "q013_probe",
+          "title": "The reporter continued to ___ for answers, asking the director about each missing payment.",
+          "isRequired": true,
+          "choices": [
+            "speculate",
+            "probe",
+            "rehearse",
+            "apologise"
+          ],
+          "correctAnswer": "probe"
+        },
+        {
+          "type": "radiogroup",
+          "name": "q014_pay_respects",
+          "title": "People placed flowers outside the theatre to ___ to the late actor.",
+          "isRequired": true,
+          "choices": [
+            "make their apologies",
+            "voice their objections",
+            "offer their congratulations",
+            "pay their respects"
+          ],
+          "correctAnswer": "pay their respects"
+        },
+        {
+          "type": "radiogroup",
+          "name": "q015_crack_down_on_something",
+          "title": "The council imposed bigger fines to ___ illegal parking.",
+          "isRequired": true,
+          "choices": [
+            "give permission for",
+            "make room for",
+            "turn a blind eye to",
+            "crack down on"
+          ],
+          "correctAnswer": "crack down on"
+        }
+      ]
+    },
+    {
+      "name": "part_2",
+      "elements": [
+        {
+          "type": "radiogroup",
+          "name": "q016_wreck",
+          "title": "One night of severe frost could ___ the entire crop beyond recovery.",
+          "isRequired": true,
+          "choices": [
+            "harvest",
+            "wreck",
+            "preserve",
+            "inspect"
+          ],
+          "correctAnswer": "wreck"
+        },
+        {
+          "type": "radiogroup",
+          "name": "q017_holy_grail",
+          "title": "A cheap battery that lasts a week remains the ___ of phone design: everyone wants one, but nobody has made one.",
+          "isRequired": true,
+          "choices": [
+            "holy grail",
+            "rule of thumb",
+            "finished article",
+            "common practice"
+          ],
+          "correctAnswer": "holy grail"
+        },
+        {
+          "type": "radiogroup",
+          "name": "q018_legendary",
+          "title": "Fans still tell stories about the singer's ___ final performance decades later.",
+          "isRequired": true,
+          "choices": [
+            "unremarked",
+            "legendary",
+            "overlooked",
+            "little-known"
+          ],
+          "correctAnswer": "legendary"
+        },
+        {
+          "type": "radiogroup",
+          "name": "q019_crimes_against_humanity",
+          "title": "Which phrase refers to grave offences committed as part of a widespread or systematic attack on civilians?",
+          "isRequired": true,
+          "choices": [
+            "breaches of contract",
+            "crimes against humanity",
+            "parking violations",
+            "civil disputes"
+          ],
+          "correctAnswer": "crimes against humanity"
+        },
+        {
+          "type": "radiogroup",
+          "name": "q020_sham",
+          "title": "The advertised competition was a ___: there was never any prize to win.",
+          "isRequired": true,
+          "choices": [
+            "trial run",
+            "sham",
+            "fundraiser",
+            "giveaway"
+          ],
+          "correctAnswer": "sham"
+        }
+      ]
+    }
+  ]
+}

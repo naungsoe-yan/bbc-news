@@ -1,0 +1,147 @@
+{
+  "title": "BBC Learning English from the News 2024 — Quiz 7",
+  "description": "Choose the best answer for each question about vocabulary and usage.",
+  "showProgressBar": true,
+  "pages": [
+    {
+      "name": "part_1",
+      "elements": [
+        {
+          "type": "radiogroup",
+          "name": "q61_disputed",
+          "title": "The ownership of the painting is disputed. What does “disputed” mean?",
+          "isRequired": true,
+          "choices": [
+            "People have agreed to share it.",
+            "It has been legally settled.",
+            "Nobody has asked about it.",
+            "People disagree about it."
+          ],
+          "correctAnswer": "People disagree about it."
+        },
+        {
+          "type": "radiogroup",
+          "name": "q62_isn_t_fooling_anyone",
+          "title": "“His excuse isn't fooling anyone.” What does the speaker mean?",
+          "isRequired": true,
+          "choices": [
+            "Nobody has heard the excuse yet.",
+            "Nobody believes the excuse.",
+            "Everybody thinks the excuse is funny.",
+            "Everybody has accepted the excuse."
+          ],
+          "correctAnswer": "Nobody believes the excuse."
+        },
+        {
+          "type": "radiogroup",
+          "name": "q63_upstart",
+          "title": "The established firms underestimated the upstart that quickly became a serious rival. Who was the upstart?",
+          "isRequired": true,
+          "choices": [
+            "A company that had left the market",
+            "A newcomer that rose quickly in importance",
+            "A long-established market leader",
+            "A customer who changed suppliers"
+          ],
+          "correctAnswer": "A newcomer that rose quickly in importance"
+        },
+        {
+          "type": "radiogroup",
+          "name": "q64_drop_out",
+          "title": "Ana planned to run the marathon but dropped out after hurting her ankle. What did she do?",
+          "isRequired": true,
+          "choices": [
+            "Withdrew from the race",
+            "Finished the race early",
+            "Practised for a shorter race",
+            "Switched places with another runner"
+          ],
+          "correctAnswer": "Withdrew from the race"
+        },
+        {
+          "type": "radiogroup",
+          "name": "q65_get_someone_s_nod",
+          "title": "The team needs to get the director's nod before hiring anyone. What does it need?",
+          "isRequired": true,
+          "choices": [
+            "The director's schedule",
+            "The director's job description",
+            "The director's approval",
+            "The director's written complaint"
+          ],
+          "correctAnswer": "The director's approval"
+        }
+      ]
+    },
+    {
+      "name": "part_2",
+      "elements": [
+        {
+          "type": "radiogroup",
+          "name": "q66_on_the_up",
+          "title": "“After a difficult year, business is on the up.” What does this mean?",
+          "isRequired": true,
+          "choices": [
+            "Business is being sold.",
+            "Business is moving upstairs.",
+            "Business is improving.",
+            "Business is less predictable."
+          ],
+          "correctAnswer": "Business is improving."
+        },
+        {
+          "type": "radiogroup",
+          "name": "q67_outcast",
+          "title": "At the new school, he felt like an outcast. How did he feel?",
+          "isRequired": true,
+          "choices": [
+            "Responsible for leading the group",
+            "Worried about leading the group",
+            "Rejected by the group",
+            "Admired by the group"
+          ],
+          "correctAnswer": "Rejected by the group"
+        },
+        {
+          "type": "radiogroup",
+          "name": "q68_staring_into_the_abyss",
+          "title": "With no money left and a deadline approaching, the organisation was staring into the abyss. What does the phrase suggest?",
+          "isRequired": true,
+          "choices": [
+            "It faced a grave and threatening situation.",
+            "It was looking back on a past mistake.",
+            "It had achieved its main goal.",
+            "It was waiting for a routine update."
+          ],
+          "correctAnswer": "It faced a grave and threatening situation."
+        },
+        {
+          "type": "radiogroup",
+          "name": "q69_2_0",
+          "title": "A team calls its redesigned training programme “Training 2.0”. What does the label suggest?",
+          "isRequired": true,
+          "choices": [
+            "It is a new and improved version.",
+            "It has been cancelled twice.",
+            "It is only available to two people.",
+            "It lasts exactly two hours."
+          ],
+          "correctAnswer": "It is a new and improved version."
+        },
+        {
+          "type": "radiogroup",
+          "name": "q70_wake_up_call",
+          "title": "“The mock exam was a wake-up call. I needed to change my study routine.” What does “wake-up call” mean?",
+          "isRequired": true,
+          "choices": [
+            "A warning that made the speaker realise they needed to act",
+            "An invitation to take another exam",
+            "A telephone call that woke the speaker up",
+            "A reminder that the exam had been cancelled"
+          ],
+          "correctAnswer": "A warning that made the speaker realise they needed to act"
+        }
+      ]
+    }
+  ]
+}

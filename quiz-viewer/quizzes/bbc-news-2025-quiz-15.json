@@ -1,0 +1,147 @@
+{
+  "title": "BBC Learning English from the News 2025 — Quiz 15",
+  "description": "Choose the best answer for each question about vocabulary and usage.",
+  "showProgressBar": true,
+  "pages": [
+    {
+      "name": "part_1",
+      "elements": [
+        {
+          "type": "radiogroup",
+          "name": "q141_double_down",
+          "title": "After the proposal was criticised, the director chose to ___ on it and defended it more strongly.",
+          "isRequired": true,
+          "choices": [
+            "move on",
+            "double down",
+            "give up",
+            "back down"
+          ],
+          "correctAnswer": "double down"
+        },
+        {
+          "type": "radiogroup",
+          "name": "q142_tit_for_tat",
+          "title": "Each side answered the other's new restriction with one of its own in a ___ exchange.",
+          "isRequired": true,
+          "choices": [
+            "unrelated",
+            "tit-for-tat",
+            "conciliatory",
+            "one-sided"
+          ],
+          "correctAnswer": "tit-for-tat"
+        },
+        {
+          "type": "radiogroup",
+          "name": "q143_follow_through_on",
+          "title": "Which construction correctly completes the promise? “We will follow through ___ our commitment to publish the results.”",
+          "isRequired": true,
+          "choices": [
+            "from",
+            "at",
+            "on",
+            "by"
+          ],
+          "correctAnswer": "on"
+        },
+        {
+          "type": "radiogroup",
+          "name": "q144_bearing_fruit",
+          "title": "The training is finally ___: the team is making fewer mistakes.",
+          "isRequired": true,
+          "choices": [
+            "losing ground",
+            "falling short",
+            "bearing fruit",
+            "running dry"
+          ],
+          "correctAnswer": "bearing fruit"
+        },
+        {
+          "type": "radiogroup",
+          "name": "q145_freaking_out",
+          "title": "In “I was freaking out when I couldn't find my passport”, how did the speaker feel?",
+          "isRequired": true,
+          "choices": [
+            "They were calmly making a plan.",
+            "They were losing their composure.",
+            "They were mildly amused.",
+            "They were bored and sleepy."
+          ],
+          "correctAnswer": "They were losing their composure."
+        }
+      ]
+    },
+    {
+      "name": "part_2",
+      "elements": [
+        {
+          "type": "radiogroup",
+          "name": "q146_spook",
+          "title": "A sudden bang can ___ a horse and make it bolt.",
+          "isRequired": true,
+          "choices": [
+            "comfort",
+            "reassure",
+            "soothe",
+            "spook"
+          ],
+          "correctAnswer": "spook"
+        },
+        {
+          "type": "radiogroup",
+          "name": "q147_shake_up",
+          "title": "The arrival of a new director led to a ___, with teams reorganised and roles changed.",
+          "isRequired": true,
+          "choices": [
+            "shake-up",
+            "brief pause",
+            "standstill",
+            "routine check"
+          ],
+          "correctAnswer": "shake-up"
+        },
+        {
+          "type": "radiogroup",
+          "name": "q148_golden_age",
+          "title": "The period is remembered as a ___ of local theatre, when audiences and productions thrived.",
+          "isRequired": true,
+          "choices": [
+            "quiet spell",
+            "golden age",
+            "long decline",
+            "brief slump"
+          ],
+          "correctAnswer": "golden age"
+        },
+        {
+          "type": "radiogroup",
+          "name": "q149_grant_clemency",
+          "title": "The petition asked the authorities to ___ and reduce the prisoner's punishment.",
+          "isRequired": true,
+          "choices": [
+            "increase the sentence",
+            "grant clemency",
+            "reject the appeal",
+            "add a penalty"
+          ],
+          "correctAnswer": "grant clemency"
+        },
+        {
+          "type": "radiogroup",
+          "name": "q150_frenemy",
+          "title": "A ___ may act like a friend while also competing with you or undermining you.",
+          "isRequired": true,
+          "choices": [
+            "frenemy",
+            "mentor",
+            "stranger",
+            "supporter"
+          ],
+          "correctAnswer": "frenemy"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,147 @@
+{
+  "title": "BBC Learning English from the News 2025 — Quiz 16",
+  "description": "Choose the best answer for each question about vocabulary and usage.",
+  "showProgressBar": true,
+  "pages": [
+    {
+      "name": "part_1",
+      "elements": [
+        {
+          "type": "radiogroup",
+          "name": "q151_under_way",
+          "title": "“Repairs are under way.” What is the status of the repairs?",
+          "isRequired": true,
+          "choices": [
+            "They have been cancelled.",
+            "They have been completed.",
+            "They have not begun.",
+            "They have started and are continuing."
+          ],
+          "correctAnswer": "They have started and are continuing."
+        },
+        {
+          "type": "radiogroup",
+          "name": "q152_dip",
+          "title": "We went for a quick ___ in the pool before setting off for lunch.",
+          "isRequired": true,
+          "choices": [
+            "hike",
+            "dip",
+            "drive",
+            "nap"
+          ],
+          "correctAnswer": "dip"
+        },
+        {
+          "type": "radiogroup",
+          "name": "q153_flock",
+          "title": "Visitors tend to ___ to the gardens when the cherry trees bloom, arriving in large crowds.",
+          "isRequired": true,
+          "choices": [
+            "flock",
+            "stay away",
+            "scatter",
+            "drift away"
+          ],
+          "correctAnswer": "flock"
+        },
+        {
+          "type": "radiogroup",
+          "name": "q154_contain",
+          "title": "Crews worked to ___ the leak and stop it spreading to nearby pipes.",
+          "isRequired": true,
+          "choices": [
+            "contain",
+            "redirect into other pipes",
+            "ignore",
+            "extend"
+          ],
+          "correctAnswer": "contain"
+        },
+        {
+          "type": "radiogroup",
+          "name": "q155_provocation",
+          "title": "His taunt was a deliberate ___ intended to make the other player react angrily.",
+          "isRequired": true,
+          "choices": [
+            "apology",
+            "provocation",
+            "tribute",
+            "reassurance"
+          ],
+          "correctAnswer": "provocation"
+        }
+      ]
+    },
+    {
+      "name": "part_2",
+      "elements": [
+        {
+          "type": "radiogroup",
+          "name": "q156_deception",
+          "title": "Selling a copy as an original is an act of ___ because it tricks the buyer.",
+          "isRequired": true,
+          "choices": [
+            "verification",
+            "disclosure",
+            "deception",
+            "cooperation"
+          ],
+          "correctAnswer": "deception"
+        },
+        {
+          "type": "radiogroup",
+          "name": "q157_come_into_force",
+          "title": "Which word completes the phrase “come into ___”, meaning that a new rule starts to apply?",
+          "isRequired": true,
+          "choices": [
+            "application forms",
+            "force",
+            "practice sessions",
+            "effectiveness"
+          ],
+          "correctAnswer": "force"
+        },
+        {
+          "type": "radiogroup",
+          "name": "q158_push_back",
+          "title": "Which preposition fits “The committee pushed back ___ the proposal by refusing to approve it”?",
+          "isRequired": true,
+          "choices": [
+            "against",
+            "atop",
+            "onto",
+            "throughout"
+          ],
+          "correctAnswer": "against"
+        },
+        {
+          "type": "radiogroup",
+          "name": "q159_debunk",
+          "title": "Which form fits “The research team has ___ several myths about sleep”?",
+          "isRequired": true,
+          "choices": [
+            "debunked",
+            "debunk",
+            "debunks",
+            "debunking"
+          ],
+          "correctAnswer": "debunked"
+        },
+        {
+          "type": "radiogroup",
+          "name": "q160_takeaway",
+          "title": "Which word fits “What was your main takeaway ___ the meeting”?",
+          "isRequired": true,
+          "choices": [
+            "alongside",
+            "from",
+            "onto",
+            "towards"
+          ],
+          "correctAnswer": "from"
+        }
+      ]
+    }
+  ]
+}

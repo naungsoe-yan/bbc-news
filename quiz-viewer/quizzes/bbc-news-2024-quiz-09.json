@@ -1,0 +1,147 @@
+{
+  "title": "BBC Learning English from the News 2024 — Quiz 9",
+  "description": "Choose the best answer for each question about vocabulary and usage.",
+  "showProgressBar": true,
+  "pages": [
+    {
+      "name": "part_1",
+      "elements": [
+        {
+          "type": "radiogroup",
+          "name": "q81_mixed_feelings",
+          "title": "Sam has mixed feelings about moving. What does this mean?",
+          "isRequired": true,
+          "choices": [
+            "Sam feels both positive and negative about it.",
+            "Sam has no opinion about it.",
+            "Sam has one clear reason for opposing it.",
+            "Sam is pleased about every part of it."
+          ],
+          "correctAnswer": "Sam feels both positive and negative about it."
+        },
+        {
+          "type": "radiogroup",
+          "name": "q82_makes_gains",
+          "title": "The new party makes gains in local elections. What does that mean?",
+          "isRequired": true,
+          "choices": [
+            "It gives up the seats it already holds.",
+            "It improves its position by winning more support or seats.",
+            "Its results are exactly the same as before.",
+            "It withdraws all of its candidates."
+          ],
+          "correctAnswer": "It improves its position by winning more support or seats."
+        },
+        {
+          "type": "radiogroup",
+          "name": "q83_slumps",
+          "title": "The price slumps after the announcement. What happens to the price?",
+          "isRequired": true,
+          "choices": [
+            "It falls sharply.",
+            "It changes by an imperceptible amount.",
+            "It stays the same.",
+            "It rises gradually."
+          ],
+          "correctAnswer": "It falls sharply."
+        },
+        {
+          "type": "radiogroup",
+          "name": "q84_surges",
+          "title": "Demand surges when tickets go on sale. What happens to demand?",
+          "isRequired": true,
+          "choices": [
+            "It rises rapidly.",
+            "It falls steadily.",
+            "It stays at its earlier level.",
+            "It briefly stops being measured."
+          ],
+          "correctAnswer": "It rises rapidly."
+        },
+        {
+          "type": "radiogroup",
+          "name": "q85_stroll",
+          "title": "Which preposition completes this sentence? “After lunch, we went ___ a stroll around the lake.”",
+          "isRequired": true,
+          "choices": [
+            "at",
+            "for",
+            "to",
+            "by"
+          ],
+          "correctAnswer": "for"
+        }
+      ]
+    },
+    {
+      "name": "part_2",
+      "elements": [
+        {
+          "type": "radiogroup",
+          "name": "q86_mull_something_over",
+          "title": "Which sentence correctly places the pronoun “it” in the phrase “mull over”?",
+          "isRequired": true,
+          "choices": [
+            "I'll mull it over tonight.",
+            "I'll it mull over tonight.",
+            "I'll over mull it tonight.",
+            "I'll mull over tonight it."
+          ],
+          "correctAnswer": "I'll mull it over tonight."
+        },
+        {
+          "type": "radiogroup",
+          "name": "q87_neck_and_neck",
+          "title": "Which preposition completes this sentence? “The two cyclists were neck and neck ___ each other as they approached the finish line.”",
+          "isRequired": true,
+          "choices": [
+            "at",
+            "with",
+            "from",
+            "for"
+          ],
+          "correctAnswer": "with"
+        },
+        {
+          "type": "radiogroup",
+          "name": "q88_braces_for",
+          "title": "Which preposition completes this sentence? “The residents are bracing ___ another night of heavy rain.”",
+          "isRequired": true,
+          "choices": [
+            "at",
+            "for",
+            "by",
+            "of"
+          ],
+          "correctAnswer": "for"
+        },
+        {
+          "type": "radiogroup",
+          "name": "q89_drop_out",
+          "title": "Which phrase completes this sentence? “I signed up for a pottery course, but I had to ___ after the first class, so I cancelled my enrolment.”",
+          "isRequired": true,
+          "choices": [
+            "drop out",
+            "drop in",
+            "drop off",
+            "drop by"
+          ],
+          "correctAnswer": "drop out"
+        },
+        {
+          "type": "radiogroup",
+          "name": "q90_leapfrog",
+          "title": "Which word correctly completes this sentence? “Over the past two months, the team has ___ three rivals in the rankings.”",
+          "isRequired": true,
+          "choices": [
+            "leapfrog",
+            "leapfrogged",
+            "leapfrogging",
+            "leapfrogs"
+          ],
+          "correctAnswer": "leapfrogged"
+        }
+      ]
+    }
+  ]
+}

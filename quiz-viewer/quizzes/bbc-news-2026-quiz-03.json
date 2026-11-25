@@ -1,0 +1,147 @@
+{
+  "title": "BBC Learning English from the News 2026 — Quiz 3",
+  "description": "Choose the best answer for each question about vocabulary and usage.",
+  "showProgressBar": true,
+  "pages": [
+    {
+      "name": "part_1",
+      "elements": [
+        {
+          "type": "radiogroup",
+          "name": "q021_shutter",
+          "title": "The repairs will force the owners to ___ the shop for two weeks.",
+          "isRequired": true,
+          "choices": [
+            "expand",
+            "reopen",
+            "shutter",
+            "promote"
+          ],
+          "correctAnswer": "shutter"
+        },
+        {
+          "type": "radiogroup",
+          "name": "q022_snowflake",
+          "title": "As an insult, what does “snowflake” imply about the person being described?",
+          "isRequired": true,
+          "choices": [
+            "They are considered too easily offended.",
+            "They are considered unusually ambitious.",
+            "They are considered very forgetful.",
+            "They are considered especially generous."
+          ],
+          "correctAnswer": "They are considered too easily offended."
+        },
+        {
+          "type": "radiogroup",
+          "name": "q023_have_it_tough",
+          "title": "Students who juggle evening shifts and early classes often ___ during exam season.",
+          "isRequired": true,
+          "choices": [
+            "have it tough",
+            "have it made",
+            "have an easy ride",
+            "have time to spare"
+          ],
+          "correctAnswer": "have it tough"
+        },
+        {
+          "type": "radiogroup",
+          "name": "q024_forge",
+          "title": "After months of meetings, the two teams managed to ___ a strong partnership.",
+          "isRequired": true,
+          "choices": [
+            "forge",
+            "dissolve",
+            "undermine",
+            "avoid"
+          ],
+          "correctAnswer": "forge"
+        },
+        {
+          "type": "radiogroup",
+          "name": "q025_loom_large",
+          "title": "As the deadline approaches, funding problems ___ in the team's discussions.",
+          "isRequired": true,
+          "choices": [
+            "go unnoticed",
+            "loom large",
+            "fade away",
+            "take a back seat"
+          ],
+          "correctAnswer": "loom large"
+        }
+      ]
+    },
+    {
+      "name": "part_2",
+      "elements": [
+        {
+          "type": "radiogroup",
+          "name": "q026_time_is_on_someone_s_side",
+          "title": "“Nora can wait for a better offer. Time is on her side.” What does the second sentence mean?",
+          "isRequired": true,
+          "choices": [
+            "She is waiting for a deadline that has already passed.",
+            "She has plenty of time to decide.",
+            "She has already missed her chance.",
+            "She needs to act immediately."
+          ],
+          "correctAnswer": "She has plenty of time to decide."
+        },
+        {
+          "type": "radiogroup",
+          "name": "q027_hotline",
+          "title": "For urgent help, residents can ring a dedicated ___ that connects them directly to trained staff.",
+          "isRequired": true,
+          "choices": [
+            "switchboard manual",
+            "directory",
+            "voicemail archive",
+            "hotline"
+          ],
+          "correctAnswer": "hotline"
+        },
+        {
+          "type": "radiogroup",
+          "name": "q028_kill_switch",
+          "title": "Which term means a control that can stop equipment immediately in an emergency?",
+          "isRequired": true,
+          "choices": [
+            "timer",
+            "kill switch",
+            "speed display",
+            "power indicator"
+          ],
+          "correctAnswer": "kill switch"
+        },
+        {
+          "type": "radiogroup",
+          "name": "q029_slowdown",
+          "title": "Orders are still rising, but less quickly than last year. The company reported a ___ in growth.",
+          "isRequired": true,
+          "choices": [
+            "slowdown",
+            "surge",
+            "speedup",
+            "rebound"
+          ],
+          "correctAnswer": "slowdown"
+        },
+        {
+          "type": "radiogroup",
+          "name": "q030_hoax",
+          "title": "The supposed sighting was a ___ staged with a model and a hidden camera.",
+          "isRequired": true,
+          "choices": [
+            "hoax",
+            "discovery",
+            "misunderstanding",
+            "coincidence"
+          ],
+          "correctAnswer": "hoax"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,147 @@
+{
+  "title": "BBC Learning English from the News 2025 — Quiz 13",
+  "description": "Choose the best answer for each question about vocabulary and usage.",
+  "showProgressBar": true,
+  "pages": [
+    {
+      "name": "part_1",
+      "elements": [
+        {
+          "type": "radiogroup",
+          "name": "q121_hits_out_at",
+          "title": "In an interview, the director ___ the proposed cuts, describing them as reckless and unfair.",
+          "isRequired": true,
+          "choices": [
+            "gave credit to",
+            "hit out at",
+            "made peace with",
+            "came out in favour of"
+          ],
+          "correctAnswer": "hit out at"
+        },
+        {
+          "type": "radiogroup",
+          "name": "q122_turn_a_blind_eye",
+          "title": "Officials knew the rules were being broken but chose to ___.",
+          "isRequired": true,
+          "choices": [
+            "sound the alarm",
+            "turn a blind eye",
+            "open an inquiry",
+            "take disciplinary action"
+          ],
+          "correctAnswer": "turn a blind eye"
+        },
+        {
+          "type": "radiogroup",
+          "name": "q123_authoritarian_turn",
+          "title": "The restrictions on dissent and concentration of power signalled an ___.",
+          "isRequired": true,
+          "choices": [
+            "authoritarian turn",
+            "democratic opening",
+            "routine reshuffle",
+            "economic recovery"
+          ],
+          "correctAnswer": "authoritarian turn"
+        },
+        {
+          "type": "radiogroup",
+          "name": "q124_stuck",
+          "title": "The drawer was ___ and would not move at all.",
+          "isRequired": true,
+          "choices": [
+            "empty",
+            "loose",
+            "stuck",
+            "open"
+          ],
+          "correctAnswer": "stuck"
+        },
+        {
+          "type": "radiogroup",
+          "name": "q125_head_back",
+          "title": "It was getting dark, so we decided to ___ to the hotel where we had started.",
+          "isRequired": true,
+          "choices": [
+            "move on",
+            "stay on",
+            "set out",
+            "head back"
+          ],
+          "correctAnswer": "head back"
+        }
+      ]
+    },
+    {
+      "name": "part_2",
+      "elements": [
+        {
+          "type": "radiogroup",
+          "name": "q126_grueling_gruelling",
+          "title": "After a ___ twelve-hour hike, everyone was too exhausted to cook.",
+          "isRequired": true,
+          "choices": [
+            "effortless",
+            "leisurely",
+            "restful",
+            "gruelling"
+          ],
+          "correctAnswer": "gruelling"
+        },
+        {
+          "type": "radiogroup",
+          "name": "q127_resurrect",
+          "title": "The community plans to ___ the festival after years without one.",
+          "isRequired": true,
+          "choices": [
+            "cancel",
+            "boycott",
+            "suspend",
+            "resurrect"
+          ],
+          "correctAnswer": "resurrect"
+        },
+        {
+          "type": "radiogroup",
+          "name": "q128_moral_obligation",
+          "title": "She felt a ___ to return the lost wallet because she believed it was the right thing to do.",
+          "isRequired": true,
+          "choices": [
+            "personal grudge",
+            "financial incentive",
+            "moral obligation",
+            "legal loophole"
+          ],
+          "correctAnswer": "moral obligation"
+        },
+        {
+          "type": "radiogroup",
+          "name": "q129_bamboozled",
+          "title": "The fake invoice ___ him into sending money to the wrong account.",
+          "isRequired": true,
+          "choices": [
+            "bamboozled",
+            "dissuaded",
+            "informed",
+            "warned"
+          ],
+          "correctAnswer": "bamboozled"
+        },
+        {
+          "type": "radiogroup",
+          "name": "q130_a_whole_lot",
+          "title": "“I like it a whole lot.” What does “a whole lot” mean here?",
+          "isRequired": true,
+          "choices": [
+            "once in a while",
+            "only a little",
+            "hardly at all",
+            "very much"
+          ],
+          "correctAnswer": "very much"
+        }
+      ]
+    }
+  ]
+}

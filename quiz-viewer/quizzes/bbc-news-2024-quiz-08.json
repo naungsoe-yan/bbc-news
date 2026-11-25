@@ -1,0 +1,147 @@
+{
+  "title": "BBC Learning English from the News 2024 — Quiz 8",
+  "description": "Choose the best answer for each question about vocabulary and usage.",
+  "showProgressBar": true,
+  "pages": [
+    {
+      "name": "part_1",
+      "elements": [
+        {
+          "type": "radiogroup",
+          "name": "q71_silent_threat",
+          "title": "Why might an invisible gas leak be called a silent threat?",
+          "isRequired": true,
+          "choices": [
+            "It only poses a danger during the day.",
+            "It can be detected by its loud noise.",
+            "It poses a danger people may not notice.",
+            "It becomes harmless when it cannot be heard."
+          ],
+          "correctAnswer": "It poses a danger people may not notice."
+        },
+        {
+          "type": "radiogroup",
+          "name": "q72_leapfrog",
+          "title": "Two wins helped the team leapfrog its closest rival in the rankings. What happened?",
+          "isRequired": true,
+          "choices": [
+            "Both teams were removed from the rankings.",
+            "The rival moved ahead of the team.",
+            "The team stayed tied with its rival.",
+            "The team moved ahead of its rival."
+          ],
+          "correctAnswer": "The team moved ahead of its rival."
+        },
+        {
+          "type": "radiogroup",
+          "name": "q73_immunity",
+          "title": "“The law grants witnesses immunity from prosecution in certain cases.” What does “immunity” mean here?",
+          "isRequired": true,
+          "choices": [
+            "A guarantee that testimony stays secret",
+            "Legal protection from being prosecuted",
+            "An obligation to give evidence",
+            "The right to prosecute someone else"
+          ],
+          "correctAnswer": "Legal protection from being prosecuted"
+        },
+        {
+          "type": "radiogroup",
+          "name": "q74_blueprint",
+          "title": "The report offers a blueprint for improving bus services. What does it offer?",
+          "isRequired": true,
+          "choices": [
+            "A list of complaints without proposals",
+            "A record of every bus trip",
+            "A ticket covering all bus routes",
+            "A plan for achieving the improvement"
+          ],
+          "correctAnswer": "A plan for achieving the improvement"
+        },
+        {
+          "type": "radiogroup",
+          "name": "q75_relish",
+          "title": "“I relish the chance to work with this team.” How does the speaker feel about the opportunity?",
+          "isRequired": true,
+          "choices": [
+            "They are unaware of it.",
+            "They doubt that it exists.",
+            "They would rather avoid it.",
+            "They welcome and enjoy it."
+          ],
+          "correctAnswer": "They welcome and enjoy it."
+        }
+      ]
+    },
+    {
+      "name": "part_2",
+      "elements": [
+        {
+          "type": "radiogroup",
+          "name": "q76_strikes_a_deal",
+          "title": "The publisher strikes a deal with a new distributor. What happens?",
+          "isRequired": true,
+          "choices": [
+            "The publisher rejects the distributor's proposal.",
+            "The distributor breaks an earlier agreement.",
+            "They end their negotiations without agreement.",
+            "They reach an agreement."
+          ],
+          "correctAnswer": "They reach an agreement."
+        },
+        {
+          "type": "radiogroup",
+          "name": "q77_dumps",
+          "title": "In a report about data, what are “dumps” of leaked files?",
+          "isRequired": true,
+          "choices": [
+            "Small corrections to public records",
+            "Large batches of digital files released together",
+            "Files stored only on damaged devices",
+            "Lists of passwords that were changed"
+          ],
+          "correctAnswer": "Large batches of digital files released together"
+        },
+        {
+          "type": "radiogroup",
+          "name": "q78_twists_and_turns",
+          "title": "The case took many twists and turns before it was settled. What happened along the way?",
+          "isRequired": true,
+          "choices": [
+            "The same decision was made each time.",
+            "All events followed the original plan.",
+            "There were several unexpected developments.",
+            "The case was settled at the first hearing."
+          ],
+          "correctAnswer": "There were several unexpected developments."
+        },
+        {
+          "type": "radiogroup",
+          "name": "q79_two_fingers",
+          "title": "In British usage, what does “giving someone two fingers” usually describe?",
+          "isRequired": true,
+          "choices": [
+            "Asking someone to repeat themselves",
+            "Making a rude gesture",
+            "Using a hand signal to say hello",
+            "Offering to carry something"
+          ],
+          "correctAnswer": "Making a rude gesture"
+        },
+        {
+          "type": "radiogroup",
+          "name": "q80_bromance",
+          "title": "A reviewer describes a film as “a bromance between two old friends”. What is the film likely to focus on?",
+          "isRequired": true,
+          "choices": [
+            "A feud between two families",
+            "A romance between former classmates",
+            "A close friendship between two men",
+            "A rivalry between two brothers"
+          ],
+          "correctAnswer": "A close friendship between two men"
+        }
+      ]
+    }
+  ]
+}

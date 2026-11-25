@@ -1,0 +1,147 @@
+{
+  "title": "BBC Learning English from the News 2024 — Quiz 4",
+  "description": "Choose the best answer for each question about vocabulary and usage.",
+  "showProgressBar": true,
+  "pages": [
+    {
+      "name": "part_1",
+      "elements": [
+        {
+          "type": "radiogroup",
+          "name": "q31_godfather_of",
+          "title": "A critic calls a musician “the godfather of modern jazz drumming”. What is the critic suggesting?",
+          "isRequired": true,
+          "choices": [
+            "He helped develop and shape that style.",
+            "He dislikes that style of music.",
+            "He was the youngest drummer to play it.",
+            "He learned the style later in his career."
+          ],
+          "correctAnswer": "He helped develop and shape that style."
+        },
+        {
+          "type": "radiogroup",
+          "name": "q32_dubbed",
+          "title": "The press dubbed the small robot “the Pocket Helper”. What did the press do?",
+          "isRequired": true,
+          "choices": [
+            "Published its instruction manual",
+            "Translated the manufacturer's name",
+            "Gave it a nickname",
+            "Announced a release date"
+          ],
+          "correctAnswer": "Gave it a nickname"
+        },
+        {
+          "type": "radiogroup",
+          "name": "q33_doomsayer",
+          "title": "Who would most likely be called a doomsayer?",
+          "isRequired": true,
+          "choices": [
+            "Someone who keeps predicting disastrous outcomes",
+            "Someone who refuses to make predictions",
+            "Someone who is confident things will improve",
+            "Someone who keeps a record of past events"
+          ],
+          "correctAnswer": "Someone who keeps predicting disastrous outcomes"
+        },
+        {
+          "type": "radiogroup",
+          "name": "q34_pay_for",
+          "title": "“The firm paid for ignoring customers' complaints when sales fell.” What does “paid for” mean here?",
+          "isRequired": true,
+          "choices": [
+            "Suffered the consequences of",
+            "Received an invoice for",
+            "Set aside money for",
+            "Gave a refund for"
+          ],
+          "correctAnswer": "Suffered the consequences of"
+        },
+        {
+          "type": "radiogroup",
+          "name": "q35_flex_its_muscles",
+          "title": "“The company flexed its muscles by showing competitors how much it could produce.” What does the phrase mean?",
+          "isRequired": true,
+          "choices": [
+            "Hid its production capacity",
+            "Sought help from competitors",
+            "Gave up its advantages",
+            "Showed how powerful it was"
+          ],
+          "correctAnswer": "Showed how powerful it was"
+        }
+      ]
+    },
+    {
+      "name": "part_2",
+      "elements": [
+        {
+          "type": "radiogroup",
+          "name": "q36_offensive",
+          "title": "A report calls a series of coordinated military operations an offensive. What does “offensive” mean here?",
+          "isRequired": true,
+          "choices": [
+            "An agreement to stop fighting",
+            "A planned military campaign",
+            "A line marking a national border",
+            "An insult directed at someone"
+          ],
+          "correctAnswer": "A planned military campaign"
+        },
+        {
+          "type": "radiogroup",
+          "name": "q37_toxic",
+          "title": "Employees described the workplace as toxic. What are they suggesting?",
+          "isRequired": true,
+          "choices": [
+            "The environment harmed their well-being over time.",
+            "The work required specialist training.",
+            "The office was hard to reach.",
+            "The workplace had an unusual opening schedule."
+          ],
+          "correctAnswer": "The environment harmed their well-being over time."
+        },
+        {
+          "type": "radiogroup",
+          "name": "q38_on_the_cusp_of",
+          "title": "“The team is on the cusp of a breakthrough.” What does this mean?",
+          "isRequired": true,
+          "choices": [
+            "A breakthrough has already been announced.",
+            "A breakthrough happened years ago.",
+            "A breakthrough was ruled out.",
+            "A breakthrough is about to happen."
+          ],
+          "correctAnswer": "A breakthrough is about to happen."
+        },
+        {
+          "type": "radiogroup",
+          "name": "q39_shocker",
+          "title": "“The bus is late again. Shocker.” If the speaker is being sarcastic, what do they mean?",
+          "isRequired": true,
+          "choices": [
+            "They are genuinely astonished.",
+            "They doubt the bus is late.",
+            "They think the bus came early.",
+            "They expected the bus to be late."
+          ],
+          "correctAnswer": "They expected the bus to be late."
+        },
+        {
+          "type": "radiogroup",
+          "name": "q40_braces_for",
+          "title": "The town braces for a flood by putting out sandbags. What does it do?",
+          "isRequired": true,
+          "choices": [
+            "Checks the damage after the flood",
+            "Signals that the flood has passed",
+            "Studies the cause of a previous flood",
+            "Prepares for the flood"
+          ],
+          "correctAnswer": "Prepares for the flood"
+        }
+      ]
+    }
+  ]
+}

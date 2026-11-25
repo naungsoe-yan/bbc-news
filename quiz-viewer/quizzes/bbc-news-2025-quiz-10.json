@@ -1,0 +1,147 @@
+{
+  "title": "BBC Learning English from the News 2025 — Quiz 10",
+  "description": "Choose the best answer for each question about vocabulary and usage.",
+  "showProgressBar": true,
+  "pages": [
+    {
+      "name": "part_1",
+      "elements": [
+        {
+          "type": "radiogroup",
+          "name": "q091_chilling",
+          "title": "The recording contained a ___ scream that frightened everyone who heard it.",
+          "isRequired": true,
+          "choices": [
+            "soothing",
+            "playful",
+            "chilling",
+            "cheerful"
+          ],
+          "correctAnswer": "chilling"
+        },
+        {
+          "type": "radiogroup",
+          "name": "q092_party_line",
+          "title": "The spokesperson repeated the ___, giving the organisation's official position word for word.",
+          "isRequired": true,
+          "choices": [
+            "private hunch",
+            "party line",
+            "unofficial rumour",
+            "minority report"
+          ],
+          "correctAnswer": "party line"
+        },
+        {
+          "type": "radiogroup",
+          "name": "q093_wild",
+          "title": "He offered a ___ explanation: he claimed the missing parcel had been carried off by a flock of ducks.",
+          "isRequired": true,
+          "choices": [
+            "standard",
+            "wild",
+            "routine",
+            "predictable"
+          ],
+          "correctAnswer": "wild"
+        },
+        {
+          "type": "radiogroup",
+          "name": "q094_deadly",
+          "title": "The disease can be ___ if left untreated, so doctors urged patients to seek help.",
+          "isRequired": true,
+          "choices": [
+            "painless",
+            "mild",
+            "deadly",
+            "harmless"
+          ],
+          "correctAnswer": "deadly"
+        },
+        {
+          "type": "radiogroup",
+          "name": "q095_fuel",
+          "title": "Repeating the accusation without evidence could ___ the dispute and make it worse.",
+          "isRequired": true,
+          "choices": [
+            "settle",
+            "resolve",
+            "quiet",
+            "fuel"
+          ],
+          "correctAnswer": "fuel"
+        }
+      ]
+    },
+    {
+      "name": "part_2",
+      "elements": [
+        {
+          "type": "radiogroup",
+          "name": "q096_sound_the_alarm",
+          "title": "The researcher decided to ___ about the worsening shortage and warn the public.",
+          "isRequired": true,
+          "choices": [
+            "play it down",
+            "sound the alarm",
+            "hold her tongue",
+            "keep a lid on it"
+          ],
+          "correctAnswer": "sound the alarm"
+        },
+        {
+          "type": "radiogroup",
+          "name": "q097_face_off",
+          "title": "The two teams will ___ in the final to decide who wins the cup.",
+          "isRequired": true,
+          "choices": [
+            "team up",
+            "break away",
+            "sit out",
+            "face off"
+          ],
+          "correctAnswer": "face off"
+        },
+        {
+          "type": "radiogroup",
+          "name": "q098_take_a_beating",
+          "title": "The old fence ___ during the storm, losing several panels.",
+          "isRequired": true,
+          "choices": [
+            "looked brand new",
+            "took a beating",
+            "held up perfectly",
+            "came through untouched"
+          ],
+          "correctAnswer": "took a beating"
+        },
+        {
+          "type": "radiogroup",
+          "name": "q099_unscathed",
+          "title": "Although the box was dented, its contents came through the journey ___.",
+          "isRequired": true,
+          "choices": [
+            "broken",
+            "damaged",
+            "battered",
+            "unscathed"
+          ],
+          "correctAnswer": "unscathed"
+        },
+        {
+          "type": "radiogroup",
+          "name": "q100_jabs",
+          "title": "In the sentence “The nurse gave him two jabs”, what were the jabs?",
+          "isRequired": true,
+          "choices": [
+            "injections",
+            "examinations",
+            "tablets",
+            "bandages"
+          ],
+          "correctAnswer": "injections"
+        }
+      ]
+    }
+  ]
+}

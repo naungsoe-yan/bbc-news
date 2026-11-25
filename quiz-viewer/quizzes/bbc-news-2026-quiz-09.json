@@ -1,0 +1,147 @@
+{
+  "title": "BBC Learning English from the News 2026 — Quiz 9",
+  "description": "Choose the best answer for each question about vocabulary and usage.",
+  "showProgressBar": true,
+  "pages": [
+    {
+      "name": "part_1",
+      "elements": [
+        {
+          "type": "radiogroup",
+          "name": "q081_alarming",
+          "title": "Inspectors described the sudden rise in faults as ___ and warned that immediate review was needed.",
+          "isRequired": true,
+          "choices": [
+            "reassuring",
+            "alarming",
+            "encouraging",
+            "harmless"
+          ],
+          "correctAnswer": "alarming"
+        },
+        {
+          "type": "radiogroup",
+          "name": "q082_break_the_chain",
+          "title": "By stopping a bad habit before passing it on to the next generation, she hoped to ___.",
+          "isRequired": true,
+          "choices": [
+            "repeat the pattern",
+            "follow tradition",
+            "keep the cycle going",
+            "break the chain"
+          ],
+          "correctAnswer": "break the chain"
+        },
+        {
+          "type": "radiogroup",
+          "name": "q083_under_way",
+          "title": "“An investigation is under way.” Which statement is true?",
+          "isRequired": true,
+          "choices": [
+            "The investigation was finished yesterday.",
+            "The investigation may be proposed later.",
+            "The investigation has begun and is ongoing.",
+            "The investigation was called off."
+          ],
+          "correctAnswer": "The investigation has begun and is ongoing."
+        },
+        {
+          "type": "radiogroup",
+          "name": "q084_chronology",
+          "title": "To follow the ___ of events, read the entries in the order they happened.",
+          "isRequired": true,
+          "choices": [
+            "setting",
+            "dialogue",
+            "ending",
+            "chronology"
+          ],
+          "correctAnswer": "chronology"
+        },
+        {
+          "type": "radiogroup",
+          "name": "q085_ripple",
+          "title": "The effect of the closure began to ___ through neighbouring towns as more shops lost customers.",
+          "isRequired": true,
+          "choices": [
+            "vanish",
+            "stop",
+            "subside",
+            "ripple"
+          ],
+          "correctAnswer": "ripple"
+        }
+      ]
+    },
+    {
+      "name": "part_2",
+      "elements": [
+        {
+          "type": "radiogroup",
+          "name": "q086_drag_on",
+          "title": "The meeting was meant to last twenty minutes, but it continued to ___ well past lunchtime.",
+          "isRequired": true,
+          "choices": [
+            "wrap up",
+            "drag on",
+            "break off",
+            "wind down"
+          ],
+          "correctAnswer": "drag on"
+        },
+        {
+          "type": "radiogroup",
+          "name": "q087_feel_the_squeeze",
+          "title": "As rent and bills rose, small businesses began to feel ___.",
+          "isRequired": true,
+          "choices": [
+            "on top of things",
+            "the squeeze",
+            "at ease",
+            "in the clear"
+          ],
+          "correctAnswer": "the squeeze"
+        },
+        {
+          "type": "radiogroup",
+          "name": "q088_lock_eyes",
+          "title": "Their conversation stopped when they locked ___. They stood silently looking directly at each other.",
+          "isRequired": true,
+          "choices": [
+            "accounts",
+            "eyes",
+            "doors",
+            "arms"
+          ],
+          "correctAnswer": "eyes"
+        },
+        {
+          "type": "radiogroup",
+          "name": "q089_give_urgency",
+          "title": "The approaching deadline gave urgency to the decision. What does this mean?",
+          "isRequired": true,
+          "choices": [
+            "It guaranteed that everyone would agree.",
+            "It removed the need to decide.",
+            "It made the decision irrelevant.",
+            "It made the decision feel more pressing."
+          ],
+          "correctAnswer": "It made the decision feel more pressing."
+        },
+        {
+          "type": "radiogroup",
+          "name": "q090_in_the_wake_of",
+          "title": "Several shops closed ___ the flood, which had damaged the entire street.",
+          "isRequired": true,
+          "choices": [
+            "in advance of",
+            "in place of",
+            "in the wake of",
+            "in spite of warnings about"
+          ],
+          "correctAnswer": "in the wake of"
+        }
+      ]
+    }
+  ]
+}

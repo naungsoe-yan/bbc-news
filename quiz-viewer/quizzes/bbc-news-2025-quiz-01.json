@@ -1,0 +1,147 @@
+{
+  "title": "BBC Learning English from the News 2025 — Quiz 1",
+  "description": "Choose the best answer for each question about vocabulary and usage.",
+  "showProgressBar": true,
+  "pages": [
+    {
+      "name": "part_1",
+      "elements": [
+        {
+          "type": "radiogroup",
+          "name": "q001_follow_through_on",
+          "title": "You promised to send the report, so please ___ on that promise.",
+          "isRequired": true,
+          "choices": [
+            "take over",
+            "fall behind",
+            "back out",
+            "follow through"
+          ],
+          "correctAnswer": "follow through"
+        },
+        {
+          "type": "radiogroup",
+          "name": "q002_dwindling",
+          "title": "Water supplies were ___ as the drought continued.",
+          "isRequired": true,
+          "choices": [
+            "stabilising",
+            "dwindling",
+            "overflowing",
+            "recovering"
+          ],
+          "correctAnswer": "dwindling"
+        },
+        {
+          "type": "radiogroup",
+          "name": "q003_race_against_time",
+          "title": "With only an hour to find the lost keys before the last train, it was a ___.",
+          "isRequired": true,
+          "choices": [
+            "test of patience",
+            "race against time",
+            "matter of taste",
+            "change of heart"
+          ],
+          "correctAnswer": "race against time"
+        },
+        {
+          "type": "radiogroup",
+          "name": "q004_put_something_to_bed",
+          "title": "The successful trial finally put the doubts ___ by showing that the design could work.",
+          "isRequired": true,
+          "choices": [
+            "in writing",
+            "into circulation",
+            "on display",
+            "to bed"
+          ],
+          "correctAnswer": "to bed"
+        },
+        {
+          "type": "radiogroup",
+          "name": "q005_flashy",
+          "title": "The car's bright gold paint and oversized wheels looked ___.",
+          "isRequired": true,
+          "choices": [
+            "understated",
+            "plain",
+            "inconspicuous",
+            "flashy"
+          ],
+          "correctAnswer": "flashy"
+        }
+      ]
+    },
+    {
+      "name": "part_2",
+      "elements": [
+        {
+          "type": "radiogroup",
+          "name": "q006_take_aim_at_something",
+          "title": "The editorial ___ the council's decision, arguing that it wasted public money.",
+          "isRequired": true,
+          "choices": [
+            "gave credit to",
+            "took aim at",
+            "lost sight of",
+            "made peace with"
+          ],
+          "correctAnswer": "took aim at"
+        },
+        {
+          "type": "radiogroup",
+          "name": "q007_come_into_force",
+          "title": "The new parking rules will ___ on Monday, when officers begin enforcing them.",
+          "isRequired": true,
+          "choices": [
+            "fall into disuse",
+            "go out of date",
+            "come into force",
+            "come to light"
+          ],
+          "correctAnswer": "come into force"
+        },
+        {
+          "type": "radiogroup",
+          "name": "q008_caveat",
+          "title": "The offer comes with one ___: it applies only to weekday bookings.",
+          "isRequired": true,
+          "choices": [
+            "bonus",
+            "incentive",
+            "guarantee",
+            "caveat"
+          ],
+          "correctAnswer": "caveat"
+        },
+        {
+          "type": "radiogroup",
+          "name": "q009_brag",
+          "title": "Which verb means to talk too proudly about your achievements?",
+          "isRequired": true,
+          "choices": [
+            "confide",
+            "concede",
+            "reassure",
+            "brag"
+          ],
+          "correctAnswer": "brag"
+        },
+        {
+          "type": "radiogroup",
+          "name": "q010_taking_stock",
+          "title": "Before making another investment, we're ___ of what worked and what failed this year.",
+          "isRequired": true,
+          "choices": [
+            "taking stock",
+            "taking sides",
+            "taking charge",
+            "taking cover"
+          ],
+          "correctAnswer": "taking stock"
+        }
+      ]
+    }
+  ]
+}

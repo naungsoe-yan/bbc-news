@@ -1,0 +1,147 @@
+{
+  "title": "BBC Learning English from the News 2025 — Quiz 7",
+  "description": "Choose the best answer for each question about vocabulary and usage.",
+  "showProgressBar": true,
+  "pages": [
+    {
+      "name": "part_1",
+      "elements": [
+        {
+          "type": "radiogroup",
+          "name": "q061_outdated",
+          "title": "The instructions are ___: they refer to buttons the new version no longer has.",
+          "isRequired": true,
+          "choices": [
+            "current",
+            "outdated",
+            "timeless",
+            "precise"
+          ],
+          "correctAnswer": "outdated"
+        },
+        {
+          "type": "radiogroup",
+          "name": "q062_contradiction",
+          "title": "There is a ___ between saying the room is empty and saying someone is inside.",
+          "isRequired": true,
+          "choices": [
+            "consensus",
+            "compromise",
+            "contradiction",
+            "parallel"
+          ],
+          "correctAnswer": "contradiction"
+        },
+        {
+          "type": "radiogroup",
+          "name": "q063_wild_west",
+          "title": "With no clear rules and nobody enforcing standards, the new marketplace felt like the ___.",
+          "isRequired": true,
+          "choices": [
+            "usual routine",
+            "wild west",
+            "chain of command",
+            "safe haven"
+          ],
+          "correctAnswer": "wild west"
+        },
+        {
+          "type": "radiogroup",
+          "name": "q064_reimagining",
+          "title": "The architects are ___ the old station as a public library instead of restoring it as it was.",
+          "isRequired": true,
+          "choices": [
+            "reimagining",
+            "measuring",
+            "demolishing",
+            "inspecting"
+          ],
+          "correctAnswer": "reimagining"
+        },
+        {
+          "type": "radiogroup",
+          "name": "q065_hangs_over",
+          "title": "The threat of closure ___ the theatre as it waits for a funding decision.",
+          "isRequired": true,
+          "choices": [
+            "takes after",
+            "runs through",
+            "hangs over",
+            "catches up with"
+          ],
+          "correctAnswer": "hangs over"
+        }
+      ]
+    },
+    {
+      "name": "part_2",
+      "elements": [
+        {
+          "type": "radiogroup",
+          "name": "q066_brinkmanship",
+          "title": "Which word describes deliberately escalating a risky dispute to pressure the other side to give in?",
+          "isRequired": true,
+          "choices": [
+            "conciliation",
+            "delegation",
+            "brinkmanship",
+            "fact-checking"
+          ],
+          "correctAnswer": "brinkmanship"
+        },
+        {
+          "type": "radiogroup",
+          "name": "q067_shaky",
+          "title": "The business is on ___ financial ground and may struggle to pay next month's bills.",
+          "isRequired": true,
+          "choices": [
+            "shaky",
+            "secure",
+            "solid",
+            "stable"
+          ],
+          "correctAnswer": "shaky"
+        },
+        {
+          "type": "radiogroup",
+          "name": "q068_evacuee",
+          "title": "What do we call someone moved away from an area because it is unsafe?",
+          "isRequired": true,
+          "choices": [
+            "tourist",
+            "landlord",
+            "commuter",
+            "evacuee"
+          ],
+          "correctAnswer": "evacuee"
+        },
+        {
+          "type": "radiogroup",
+          "name": "q069_roots",
+          "title": "The study examined the ___ of the problem by looking for what originally caused it.",
+          "isRequired": true,
+          "choices": [
+            "roots",
+            "symptoms",
+            "solutions",
+            "benefits"
+          ],
+          "correctAnswer": "roots"
+        },
+        {
+          "type": "radiogroup",
+          "name": "q070_call_for",
+          "title": "Campaigners ___ an immediate review, saying further delay is unacceptable.",
+          "isRequired": true,
+          "choices": [
+            "backed away from",
+            "gave up on",
+            "ruled out",
+            "called for"
+          ],
+          "correctAnswer": "called for"
+        }
+      ]
+    }
+  ]
+}

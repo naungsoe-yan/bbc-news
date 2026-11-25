@@ -1,0 +1,147 @@
+{
+  "title": "BBC Learning English from the News 2025 — Quiz 9",
+  "description": "Choose the best answer for each question about vocabulary and usage.",
+  "showProgressBar": true,
+  "pages": [
+    {
+      "name": "part_1",
+      "elements": [
+        {
+          "type": "radiogroup",
+          "name": "q081_new_reality",
+          "title": "After the only grocery shop closed, travelling to another town for food became residents' ___.",
+          "isRequired": true,
+          "choices": [
+            "new reality",
+            "false impression",
+            "distant memory",
+            "old habit"
+          ],
+          "correctAnswer": "new reality"
+        },
+        {
+          "type": "radiogroup",
+          "name": "q082_play_out",
+          "title": "“Let’s wait and see how the talks play out.” What does “play out” mean here?",
+          "isRequired": true,
+          "choices": [
+            "Develop over time",
+            "Get moved to another venue",
+            "Get recorded for later viewing",
+            "Get announced to the public"
+          ],
+          "correctAnswer": "Develop over time"
+        },
+        {
+          "type": "radiogroup",
+          "name": "q083_lash_out",
+          "title": "He suddenly began to ___ at his colleagues, shouting insults across the room.",
+          "isRequired": true,
+          "choices": [
+            "reach out",
+            "pipe down",
+            "give in",
+            "lash out"
+          ],
+          "correctAnswer": "lash out"
+        },
+        {
+          "type": "radiogroup",
+          "name": "q084_pay_off",
+          "title": "All those hours of practice began to ___ when her accuracy improved.",
+          "isRequired": true,
+          "choices": [
+            "trail off",
+            "backfire",
+            "pay off",
+            "wear off"
+          ],
+          "correctAnswer": "pay off"
+        },
+        {
+          "type": "radiogroup",
+          "name": "q085_barrage",
+          "title": "Immediately after the announcement, the office received a ___ of calls.",
+          "isRequired": true,
+          "choices": [
+            "shortage",
+            "pause",
+            "barrage",
+            "trickle"
+          ],
+          "correctAnswer": "barrage"
+        }
+      ]
+    },
+    {
+      "name": "part_2",
+      "elements": [
+        {
+          "type": "radiogroup",
+          "name": "q086_zero_in_on",
+          "title": "The tutor helped me ___ the one error I kept making rather than reviewing everything.",
+          "isRequired": true,
+          "choices": [
+            "gloss over",
+            "zero in on",
+            "move away from",
+            "spread out over"
+          ],
+          "correctAnswer": "zero in on"
+        },
+        {
+          "type": "radiogroup",
+          "name": "q087_to_do_with_something",
+          "title": "The delay had nothing ___ the weather; it was caused by a technical fault.",
+          "isRequired": true,
+          "choices": [
+            "in spite of",
+            "to do with",
+            "in place of",
+            "to say about"
+          ],
+          "correctAnswer": "to do with"
+        },
+        {
+          "type": "radiogroup",
+          "name": "q088_curfew",
+          "title": "A ___ required everyone to be off the streets by ten at night.",
+          "isRequired": true,
+          "choices": [
+            "parking permit",
+            "deadline for applications",
+            "curfew",
+            "holiday"
+          ],
+          "correctAnswer": "curfew"
+        },
+        {
+          "type": "radiogroup",
+          "name": "q089_quell",
+          "title": "The staff took steps to ___ panic and restore calm.",
+          "isRequired": true,
+          "choices": [
+            "quell",
+            "intensify",
+            "fuel",
+            "spread"
+          ],
+          "correctAnswer": "quell"
+        },
+        {
+          "type": "radiogroup",
+          "name": "q090_a_self_fulfilling_prophecy",
+          "title": "She expected to fail, so she stopped practising and ended up failing. Her expectation became ___.",
+          "isRequired": true,
+          "choices": [
+            "a lucky guess",
+            "a false alarm",
+            "a self-fulfilling prophecy",
+            "an unrelated coincidence"
+          ],
+          "correctAnswer": "a self-fulfilling prophecy"
+        }
+      ]
+    }
+  ]
+}

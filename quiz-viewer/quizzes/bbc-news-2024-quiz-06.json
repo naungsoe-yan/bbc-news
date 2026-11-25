@@ -1,0 +1,147 @@
+{
+  "title": "BBC Learning English from the News 2024 — Quiz 6",
+  "description": "Choose the best answer for each question about vocabulary and usage.",
+  "showProgressBar": true,
+  "pages": [
+    {
+      "name": "part_1",
+      "elements": [
+        {
+          "type": "radiogroup",
+          "name": "q51_turn_the_tide",
+          "title": "Vacancies had been increasing for years until new businesses began to turn the tide. What did the businesses help do?",
+          "isRequired": true,
+          "choices": [
+            "Speed up the trend",
+            "Measure the trend",
+            "Reverse the trend",
+            "Hide the trend"
+          ],
+          "correctAnswer": "Reverse the trend"
+        },
+        {
+          "type": "radiogroup",
+          "name": "q52_snappy",
+          "title": "An editor asks for a snappy opening paragraph. What kind of paragraph do they want?",
+          "isRequired": true,
+          "choices": [
+            "Brief and engaging",
+            "Slow and repetitive",
+            "Long and highly detailed",
+            "Formal and cautious"
+          ],
+          "correctAnswer": "Brief and engaging"
+        },
+        {
+          "type": "radiogroup",
+          "name": "q53_quick_fire",
+          "title": "The interviewer fired off a series of quick-fire questions. How did the questions come?",
+          "isRequired": true,
+          "choices": [
+            "In several languages",
+            "In rapid succession",
+            "With long breaks between them",
+            "In order of difficulty"
+          ],
+          "correctAnswer": "In rapid succession"
+        },
+        {
+          "type": "radiogroup",
+          "name": "q54_back_and_forth",
+          "title": "The children passed the ball back and forth. How did the ball move?",
+          "isRequired": true,
+          "choices": [
+            "From one child to another and back again",
+            "In a straight line away from both children",
+            "Around the room in a single direction",
+            "Upward without being caught"
+          ],
+          "correctAnswer": "From one child to another and back again"
+        },
+        {
+          "type": "radiogroup",
+          "name": "q55_carve_out_a_bigger_slice",
+          "title": "A small business worked hard to carve out a bigger slice of the market. What was its aim?",
+          "isRequired": true,
+          "choices": [
+            "Reduce the total size of the market",
+            "Win a larger share of sales",
+            "Exit the market quietly",
+            "Keep its existing share unchanged"
+          ],
+          "correctAnswer": "Win a larger share of sales"
+        }
+      ]
+    },
+    {
+      "name": "part_2",
+      "elements": [
+        {
+          "type": "radiogroup",
+          "name": "q56_biding_its_time",
+          "title": "The company is biding its time before announcing the product. What is it doing?",
+          "isRequired": true,
+          "choices": [
+            "Trying to forget its original plan",
+            "Making a decision by chance",
+            "Waiting patiently for the right moment",
+            "Rushing to announce before a rival"
+          ],
+          "correctAnswer": "Waiting patiently for the right moment"
+        },
+        {
+          "type": "radiogroup",
+          "name": "q57_gets_a_greenish_light",
+          "title": "The proposal gets a greenish light from the committee. What does the playful phrase suggest?",
+          "isRequired": true,
+          "choices": [
+            "It receives unconditional approval.",
+            "It is unanimously rejected.",
+            "It receives some approval, with reservations.",
+            "It has not yet been discussed."
+          ],
+          "correctAnswer": "It receives some approval, with reservations."
+        },
+        {
+          "type": "radiogroup",
+          "name": "q58_dissolve_parliament",
+          "title": "What happens when a country dissolves parliament ahead of an election?",
+          "isRequired": true,
+          "choices": [
+            "It appoints one extra member of parliament.",
+            "It formally brings the current parliament to an end.",
+            "It extends the current parliament's term.",
+            "It changes the location of parliament."
+          ],
+          "correctAnswer": "It formally brings the current parliament to an end."
+        },
+        {
+          "type": "radiogroup",
+          "name": "q59_a_dangerous_vacuum",
+          "title": "The leader resigned suddenly, leaving a dangerous vacuum. What does that phrase refer to?",
+          "isRequired": true,
+          "choices": [
+            "A temporary shortage of office space",
+            "A peaceful transfer of power",
+            "A lack of public interest in the news",
+            "A lack of leadership that could lead to conflict"
+          ],
+          "correctAnswer": "A lack of leadership that could lead to conflict"
+        },
+        {
+          "type": "radiogroup",
+          "name": "q60_tainted_legacy",
+          "title": "The scandal left the mayor with a tainted legacy. What does the phrase imply?",
+          "isRequired": true,
+          "choices": [
+            "The scandal damaged how the mayor would be remembered.",
+            "The mayor left money to the city.",
+            "The mayor's achievements would be forgotten entirely.",
+            "The mayor inherited a legal claim."
+          ],
+          "correctAnswer": "The scandal damaged how the mayor would be remembered."
+        }
+      ]
+    }
+  ]
+}

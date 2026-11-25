@@ -1,0 +1,147 @@
+{
+  "title": "BBC Learning English from the News 2026 — Quiz 12",
+  "description": "Choose the best answer for each question about vocabulary and usage.",
+  "showProgressBar": true,
+  "pages": [
+    {
+      "name": "part_1",
+      "elements": [
+        {
+          "type": "radiogroup",
+          "name": "q111_bode_well",
+          "title": "A successful trial and strong demand ___ for the launch next month.",
+          "isRequired": true,
+          "choices": [
+            "point to failure",
+            "raise doubts",
+            "bode well",
+            "spell trouble"
+          ],
+          "correctAnswer": "bode well"
+        },
+        {
+          "type": "radiogroup",
+          "name": "q112_sweeping",
+          "title": "The proposal calls for ___ reforms that would change nearly every department.",
+          "isRequired": true,
+          "choices": [
+            "minimal",
+            "narrow",
+            "cosmetic",
+            "sweeping"
+          ],
+          "correctAnswer": "sweeping"
+        },
+        {
+          "type": "radiogroup",
+          "name": "q113_bear_the_brunt",
+          "title": "Because they were closest to the river, the homes on Mill Street ___ of the flood damage: no other street was hit as hard.",
+          "isRequired": true,
+          "choices": [
+            "escaped the worst",
+            "were spared most",
+            "bore the brunt",
+            "took no notice"
+          ],
+          "correctAnswer": "bore the brunt"
+        },
+        {
+          "type": "radiogroup",
+          "name": "q114_unfold",
+          "title": "The documentary follows events as they ___, from the first meeting to the final vote.",
+          "isRequired": true,
+          "choices": [
+            "come to a halt",
+            "repeat without change",
+            "happen in reverse",
+            "unfold"
+          ],
+          "correctAnswer": "unfold"
+        },
+        {
+          "type": "radiogroup",
+          "name": "q115_pave_the_way",
+          "title": "The successful pilot could ___ for similar projects by removing doubts about the design.",
+          "isRequired": true,
+          "choices": [
+            "pave the way",
+            "close the door",
+            "raise barriers",
+            "block the route"
+          ],
+          "correctAnswer": "pave the way"
+        }
+      ]
+    },
+    {
+      "name": "part_2",
+      "elements": [
+        {
+          "type": "radiogroup",
+          "name": "q116_cartel",
+          "title": "In business reporting, what is a “cartel”?",
+          "isRequired": true,
+          "choices": [
+            "A group of shoppers comparing prices",
+            "A firm reducing prices independently",
+            "A group of companies coordinating to keep prices high",
+            "A board reviewing product quality"
+          ],
+          "correctAnswer": "A group of companies coordinating to keep prices high"
+        },
+        {
+          "type": "radiogroup",
+          "name": "q117_in_jeopardy",
+          "title": "The funding cuts put the project in ___. It may have to be cancelled.",
+          "isRequired": true,
+          "choices": [
+            "demand",
+            "jeopardy",
+            "balance",
+            "reserve"
+          ],
+          "correctAnswer": "jeopardy"
+        },
+        {
+          "type": "radiogroup",
+          "name": "q118_arsenal",
+          "title": "“The tutor has an arsenal of teaching techniques.” What does “arsenal” mean here?",
+          "isRequired": true,
+          "choices": [
+            "A collection of methods the tutor can draw on",
+            "A rule forbidding certain teaching methods",
+            "A record of all the classes the tutor has taught",
+            "A penalty for failing to learn quickly"
+          ],
+          "correctAnswer": "A collection of methods the tutor can draw on"
+        },
+        {
+          "type": "radiogroup",
+          "name": "q119_the_science_behind",
+          "title": "The programme explains ___ bread rising by showing how yeast produces gas.",
+          "isRequired": true,
+          "choices": [
+            "the price of",
+            "the packaging of",
+            "the advertising for",
+            "the science behind"
+          ],
+          "correctAnswer": "the science behind"
+        },
+        {
+          "type": "radiogroup",
+          "name": "q120_taint",
+          "title": "A bitter aftertaste can ___ an otherwise enjoyable meal.",
+          "isRequired": true,
+          "choices": [
+            "complement",
+            "taint",
+            "enhance",
+            "improve"
+          ],
+          "correctAnswer": "taint"
+        }
+      ]
+    }
+  ]
+}

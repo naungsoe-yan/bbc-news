@@ -1,0 +1,147 @@
+{
+  "title": "BBC Learning English from the News 2026 — Quiz 2",
+  "description": "Choose the best answer for each question about vocabulary and usage.",
+  "showProgressBar": true,
+  "pages": [
+    {
+      "name": "part_1",
+      "elements": [
+        {
+          "type": "radiogroup",
+          "name": "q011_progressive",
+          "title": "In politics, which description best fits the noun “a progressive”?",
+          "isRequired": true,
+          "choices": [
+            "Someone who refuses to take any political position",
+            "Someone who supports liberal or left-leaning social reform",
+            "Someone who wants every existing institution to remain unchanged",
+            "Someone who counts ballots on election day"
+          ],
+          "correctAnswer": "Someone who supports liberal or left-leaning social reform"
+        },
+        {
+          "type": "radiogroup",
+          "name": "q012_dismayed",
+          "title": "Staff were ___ to hear the centre would close, since they had worked hard to keep it open.",
+          "isRequired": true,
+          "choices": [
+            "reassured",
+            "thrilled",
+            "dismayed",
+            "delighted"
+          ],
+          "correctAnswer": "dismayed"
+        },
+        {
+          "type": "radiogroup",
+          "name": "q013_take_to_the_streets",
+          "title": "Residents decided to ___, gathering in the town square to protest the closure.",
+          "isRequired": true,
+          "choices": [
+            "take to the streets",
+            "call it a day",
+            "take a back seat",
+            "stay behind closed doors"
+          ],
+          "correctAnswer": "take to the streets"
+        },
+        {
+          "type": "radiogroup",
+          "name": "q014_cost_of_living",
+          "title": "With rent, food and energy bills rising, households are struggling with the ___.",
+          "isRequired": true,
+          "choices": [
+            "balance of trade",
+            "rate of employment",
+            "cost of borrowing",
+            "cost of living"
+          ],
+          "correctAnswer": "cost of living"
+        },
+        {
+          "type": "radiogroup",
+          "name": "q015_stacked_against",
+          "title": "With less funding and half the usual staff, the odds were ___ the small team.",
+          "isRequired": true,
+          "choices": [
+            "boosted for",
+            "in favour of",
+            "even for",
+            "stacked against"
+          ],
+          "correctAnswer": "stacked against"
+        }
+      ]
+    },
+    {
+      "name": "part_2",
+      "elements": [
+        {
+          "type": "radiogroup",
+          "name": "q016_take_cover",
+          "title": "When the hail started, pedestrians ran under an awning to ___.",
+          "isRequired": true,
+          "choices": [
+            "take cover",
+            "take charge",
+            "take stock",
+            "take notes"
+          ],
+          "correctAnswer": "take cover"
+        },
+        {
+          "type": "radiogroup",
+          "name": "q017_headache",
+          "title": "Keeping track of fifty conflicting schedules has become a real ___ for the organiser.",
+          "isRequired": true,
+          "choices": [
+            "headache",
+            "shortcut",
+            "bonus",
+            "relief"
+          ],
+          "correctAnswer": "headache"
+        },
+        {
+          "type": "radiogroup",
+          "name": "q018_probe",
+          "title": "The panel will ___ the missing payments by examining bank records and questioning staff.",
+          "isRequired": true,
+          "choices": [
+            "overlook",
+            "reimburse",
+            "approve",
+            "probe"
+          ],
+          "correctAnswer": "probe"
+        },
+        {
+          "type": "radiogroup",
+          "name": "q019_grip",
+          "title": "The opening scene managed to ___ the audience, who watched in silence until the credits rolled.",
+          "isRequired": true,
+          "choices": [
+            "confuse",
+            "distract",
+            "grip",
+            "bore"
+          ],
+          "correctAnswer": "grip"
+        },
+        {
+          "type": "radiogroup",
+          "name": "q020_spiral",
+          "title": "If we ignore the unpaid bills, costs could ___, rising faster than we can manage.",
+          "isRequired": true,
+          "choices": [
+            "settle",
+            "spiral",
+            "level off",
+            "ease"
+          ],
+          "correctAnswer": "spiral"
+        }
+      ]
+    }
+  ]
+}

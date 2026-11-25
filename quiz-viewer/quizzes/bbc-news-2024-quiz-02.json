@@ -1,0 +1,147 @@
+{
+  "title": "BBC Learning English from the News 2024 — Quiz 2",
+  "description": "Choose the best answer for each question about vocabulary and usage.",
+  "showProgressBar": true,
+  "pages": [
+    {
+      "name": "part_1",
+      "elements": [
+        {
+          "type": "radiogroup",
+          "name": "q11_send_chill_through",
+          "title": "The sound of footsteps in the empty building sent a chill through Maya. What did it do?",
+          "isRequired": true,
+          "choices": [
+            "Made Maya feel frightened",
+            "Made Maya feel sleepy",
+            "Made Maya want to turn down the heating",
+            "Made Maya feel relieved"
+          ],
+          "correctAnswer": "Made Maya feel frightened"
+        },
+        {
+          "type": "radiogroup",
+          "name": "q12_hedonistic",
+          "title": "The novel portrays a hedonistic lifestyle. Which description fits?",
+          "isRequired": true,
+          "choices": [
+            "A life devoted to helping others",
+            "A life centred on saving every spare penny",
+            "A life centred on pursuing pleasure without restraint",
+            "A life guided by strict self-discipline"
+          ],
+          "correctAnswer": "A life centred on pursuing pleasure without restraint"
+        },
+        {
+          "type": "radiogroup",
+          "name": "q13_where_do_things_stand",
+          "title": "A colleague asks, “Where do things stand with the repairs?” What do they want to know?",
+          "isRequired": true,
+          "choices": [
+            "What the current situation is",
+            "Who first caused the damage",
+            "Which room contains the tools",
+            "Where to store the spare parts"
+          ],
+          "correctAnswer": "What the current situation is"
+        },
+        {
+          "type": "radiogroup",
+          "name": "q14_parting_gift",
+          "title": "On his last day, his colleagues gave him a parting gift. Why was the gift given?",
+          "isRequired": true,
+          "choices": [
+            "To repay a loan",
+            "To mark his departure",
+            "To reward a promotion",
+            "To celebrate his arrival"
+          ],
+          "correctAnswer": "To mark his departure"
+        },
+        {
+          "type": "radiogroup",
+          "name": "q15_ratchet_something_up",
+          "title": "The organisers gradually ratcheted up the pressure. What happened to the pressure?",
+          "isRequired": true,
+          "choices": [
+            "It remained constant.",
+            "It returned to its starting level.",
+            "It increased in stages.",
+            "It fell in stages."
+          ],
+          "correctAnswer": "It increased in stages."
+        }
+      ]
+    },
+    {
+      "name": "part_2",
+      "elements": [
+        {
+          "type": "radiogroup",
+          "name": "q16_choke",
+          "title": "Thick smoke made the hikers choke. What happened?",
+          "isRequired": true,
+          "choices": [
+            "They began to shiver.",
+            "They felt unusually hungry.",
+            "They lost their sense of direction.",
+            "They struggled to breathe."
+          ],
+          "correctAnswer": "They struggled to breathe."
+        },
+        {
+          "type": "radiogroup",
+          "name": "q17_hit_new_highs",
+          "title": "Online sales hit new highs this month. What does that mean?",
+          "isRequired": true,
+          "choices": [
+            "They returned to their usual level.",
+            "They reached a higher level than ever before.",
+            "They met a target set several years ago.",
+            "They rose briefly but stayed below the previous record."
+          ],
+          "correctAnswer": "They reached a higher level than ever before."
+        },
+        {
+          "type": "radiogroup",
+          "name": "q18_blurred_lines",
+          "title": "The app has blurred the lines between work and leisure. What has it done?",
+          "isRequired": true,
+          "choices": [
+            "Made work and leisure easier to schedule",
+            "Made work and leisure harder to distinguish",
+            "Made work and leisure equally popular",
+            "Made work more expensive than leisure"
+          ],
+          "correctAnswer": "Made work and leisure harder to distinguish"
+        },
+        {
+          "type": "radiogroup",
+          "name": "q19_jubilant",
+          "title": "Which word best completes the sentence? “The players were ___ after winning the final and celebrated all night.”",
+          "isRequired": true,
+          "choices": [
+            "jubilant",
+            "indifferent",
+            "anxious",
+            "reluctant"
+          ],
+          "correctAnswer": "jubilant"
+        },
+        {
+          "type": "radiogroup",
+          "name": "q20_close_in_on",
+          "title": "With only one win left to secure the championship, the team is closing in on the title. What does that mean?",
+          "isRequired": true,
+          "choices": [
+            "It has decided to withdraw.",
+            "It is getting further from winning it.",
+            "It is getting closer to winning it.",
+            "It has already won it."
+          ],
+          "correctAnswer": "It is getting closer to winning it."
+        }
+      ]
+    }
+  ]
+}

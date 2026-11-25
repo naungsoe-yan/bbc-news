@@ -1,0 +1,147 @@
+{
+  "title": "BBC Learning English from the News 2025 — Quiz 12",
+  "description": "Choose the best answer for each question about vocabulary and usage.",
+  "showProgressBar": true,
+  "pages": [
+    {
+      "name": "part_1",
+      "elements": [
+        {
+          "type": "radiogroup",
+          "name": "q111_frontrunner",
+          "title": "Having led every poll, the candidate is considered the ___ for the nomination.",
+          "isRequired": true,
+          "choices": [
+            "frontrunner",
+            "outsider",
+            "runner-up",
+            "spectator"
+          ],
+          "correctAnswer": "frontrunner"
+        },
+        {
+          "type": "radiogroup",
+          "name": "q112_dwindling",
+          "title": "Which sentence uses “dwindling” correctly?",
+          "isRequired": true,
+          "choices": [
+            "The balloon kept dwindling as it filled with air.",
+            "Our dwindling supplies will soon run out.",
+            "Dwindling attendance meant more people came every week.",
+            "The dwindling pile grew taller each day."
+          ],
+          "correctAnswer": "Our dwindling supplies will soon run out."
+        },
+        {
+          "type": "radiogroup",
+          "name": "q113_smuggle",
+          "title": "The officers found that someone had tried to ___ expensive goods across the border without declaring them.",
+          "isRequired": true,
+          "choices": [
+            "smuggle",
+            "display",
+            "declare",
+            "inspect"
+          ],
+          "correctAnswer": "smuggle"
+        },
+        {
+          "type": "radiogroup",
+          "name": "q114_turn_the_corner",
+          "title": "After losing money for months, the business finally began to ___ when orders recovered.",
+          "isRequired": true,
+          "choices": [
+            "lose ground",
+            "run out of steam",
+            "turn the corner",
+            "hit a new low"
+          ],
+          "correctAnswer": "turn the corner"
+        },
+        {
+          "type": "radiogroup",
+          "name": "q115_tumble",
+          "title": "The stack began to ___ when someone pulled out the bottom box.",
+          "isRequired": true,
+          "choices": [
+            "rise",
+            "float",
+            "tumble",
+            "balance"
+          ],
+          "correctAnswer": "tumble"
+        }
+      ]
+    },
+    {
+      "name": "part_2",
+      "elements": [
+        {
+          "type": "radiogroup",
+          "name": "q116_spar",
+          "title": "The two commentators often ___ over policy, exchanging sharp arguments on air.",
+          "isRequired": true,
+          "choices": [
+            "agree",
+            "reconcile",
+            "collaborate",
+            "spar"
+          ],
+          "correctAnswer": "spar"
+        },
+        {
+          "type": "radiogroup",
+          "name": "q117_game_of_chicken",
+          "title": "Both managers threatened to resign and waited to see who would back down first. It became ___.",
+          "isRequired": true,
+          "choices": [
+            "an honest mistake",
+            "a routine handover",
+            "a show of unity",
+            "a game of chicken"
+          ],
+          "correctAnswer": "a game of chicken"
+        },
+        {
+          "type": "radiogroup",
+          "name": "q118_rubble",
+          "title": "After the building collapsed, workers cleared the ___ from the road.",
+          "isRequired": true,
+          "choices": [
+            "rubble",
+            "scaffolding",
+            "luggage",
+            "furniture"
+          ],
+          "correctAnswer": "rubble"
+        },
+        {
+          "type": "radiogroup",
+          "name": "q119_cling",
+          "title": "The child continued to ___ to the railing, gripping it tightly.",
+          "isRequired": true,
+          "choices": [
+            "wave",
+            "nod",
+            "cling",
+            "point"
+          ],
+          "correctAnswer": "cling"
+        },
+        {
+          "type": "radiogroup",
+          "name": "q120_deepen_crisis",
+          "title": "Cutting emergency funding would ___ the crisis by making help even harder to obtain.",
+          "isRequired": true,
+          "choices": [
+            "minimise",
+            "deepen",
+            "resolve",
+            "ease"
+          ],
+          "correctAnswer": "deepen"
+        }
+      ]
+    }
+  ]
+}

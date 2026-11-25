@@ -1,0 +1,40 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta http-equiv="Content-Security-Policy" content="script-src 'self' https://cdn.jsdelivr.net; object-src 'none'; base-uri 'none'; form-action 'none'">
+  <title>Quiz Viewer</title>
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/survey-core@3.2.7/survey-core.min.css">
+  <link rel="stylesheet" href="viewer.css">
+  <script defer src="https://cdn.jsdelivr.net/npm/survey-core@3.2.7/survey.core.min.js"></script>
+  <script defer src="https://cdn.jsdelivr.net/npm/survey-js-ui@3.2.7/survey-js-ui.min.js"></script>
+  <script defer src="viewer.js"></script>
+</head>
+<body>
+  <main>
+    <header>
+      <h1>Quiz Viewer</h1>
+      <p>Choose a quiz to take in your browser, or open a SurveyJS JSON file.</p>
+      <div class="actions">
+        <div>
+          <label for="quiz-select">Available quizzes</label>
+          <select id="quiz-select" disabled>
+            <option value="">Loading quizzes…</option>
+          </select>
+          <p id="catalog-error" role="status" hidden></p>
+        </div>
+        <div>
+          <label for="quiz-file">Quiz file</label>
+          <input id="quiz-file" type="file" accept=".json,application/json">
+        </div>
+        <button id="restart" type="button" hidden>Restart quiz</button>
+      </div>
+      <p id="status" role="status"></p>
+      <p id="error" role="alert"></p>
+    </header>
+    <section id="score" aria-label="Quiz result" aria-live="polite" hidden></section>
+    <div id="survey"></div>
+  </main>
+</body>
+</html>

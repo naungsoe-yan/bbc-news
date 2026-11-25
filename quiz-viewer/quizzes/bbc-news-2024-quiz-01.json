@@ -1,0 +1,147 @@
+{
+  "title": "BBC Learning English from the News 2024 — Quiz 1",
+  "description": "Choose the best answer for each question about vocabulary and usage.",
+  "showProgressBar": true,
+  "pages": [
+    {
+      "name": "part_1",
+      "elements": [
+        {
+          "type": "radiogroup",
+          "name": "q01_reconstruct",
+          "title": "The team used old photographs to reconstruct the damaged fountain. What did they do?",
+          "isRequired": true,
+          "choices": [
+            "Estimated its value",
+            "Moved it to a new location",
+            "Built it again",
+            "Documented the damage"
+          ],
+          "correctAnswer": "Built it again"
+        },
+        {
+          "type": "radiogroup",
+          "name": "q02_unmask",
+          "title": "The investigation unmasked the person behind the fake charity. What did it do?",
+          "isRequired": true,
+          "choices": [
+            "Revealed the person's identity",
+            "Asked the person to step down",
+            "Cleared the person's name",
+            "Hired the person to run the charity"
+          ],
+          "correctAnswer": "Revealed the person's identity"
+        },
+        {
+          "type": "radiogroup",
+          "name": "q03_millennia",
+          "title": "The ruins have stood for three millennia. How long is that?",
+          "isRequired": true,
+          "choices": [
+            "Three hundred years",
+            "Three thousand years",
+            "Three generations",
+            "Three decades"
+          ],
+          "correctAnswer": "Three thousand years"
+        },
+        {
+          "type": "radiogroup",
+          "name": "q04_stroll",
+          "title": "Which sentence describes a stroll?",
+          "isRequired": true,
+          "choices": [
+            "We took a leisurely walk around the garden.",
+            "We cycled up a steep hill.",
+            "We sprinted to catch a train.",
+            "We stood in line outside a shop."
+          ],
+          "correctAnswer": "We took a leisurely walk around the garden."
+        },
+        {
+          "type": "radiogroup",
+          "name": "q05_pinpoint",
+          "title": "The plumber pinpointed the source of the leak. What did the plumber do?",
+          "isRequired": true,
+          "choices": [
+            "Found precisely where it began",
+            "Listed several possible causes",
+            "Repaired every pipe in the building",
+            "Measured the amount of water lost"
+          ],
+          "correctAnswer": "Found precisely where it began"
+        }
+      ]
+    },
+    {
+      "name": "part_2",
+      "elements": [
+        {
+          "type": "radiogroup",
+          "name": "q06_walk_away_from_someone_or_something",
+          "title": "After weeks of unproductive talks, they decided to walk away from the deal. What did they do?",
+          "isRequired": true,
+          "choices": [
+            "Moved the talks to a different location",
+            "Asked for more time to decide",
+            "Accepted the original offer",
+            "Stopped pursuing the deal"
+          ],
+          "correctAnswer": "Stopped pursuing the deal"
+        },
+        {
+          "type": "radiogroup",
+          "name": "q07_oust",
+          "title": "The board voted to oust its chair. What did it vote to do?",
+          "isRequired": true,
+          "choices": [
+            "Give the chair another term",
+            "Remove the chair from the position",
+            "Let the chair choose a successor",
+            "Reduce the chair's workload"
+          ],
+          "correctAnswer": "Remove the chair from the position"
+        },
+        {
+          "type": "radiogroup",
+          "name": "q08_seismic",
+          "title": "The court's ruling caused a seismic shift in how the industry worked. What does “seismic” suggest here?",
+          "isRequired": true,
+          "choices": [
+            "The change affected just one worker.",
+            "The change was extremely significant.",
+            "The change was expected to reverse immediately.",
+            "The change happened every year."
+          ],
+          "correctAnswer": "The change was extremely significant."
+        },
+        {
+          "type": "radiogroup",
+          "name": "q09_get_someone_or_something_wrong",
+          "title": "“I got your message wrong. I thought you wanted to cancel the meeting.” What does the speaker admit?",
+          "isRequired": true,
+          "choices": [
+            "Misunderstanding the message",
+            "Sending the message too late",
+            "Reporting the message to a manager",
+            "Forgetting to read the message"
+          ],
+          "correctAnswer": "Misunderstanding the message"
+        },
+        {
+          "type": "radiogroup",
+          "name": "q10_tainted",
+          "title": "The shop recalled juice that was tainted with bacteria. What does “tainted” mean here?",
+          "isRequired": true,
+          "choices": [
+            "Fermented on purpose",
+            "Incorrectly priced",
+            "Contaminated",
+            "Diluted with water"
+          ],
+          "correctAnswer": "Contaminated"
+        }
+      ]
+    }
+  ]
+}

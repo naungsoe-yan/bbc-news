@@ -1,0 +1,147 @@
+{
+  "title": "BBC Learning English from the News 2025 — Quiz 4",
+  "description": "Choose the best answer for each question about vocabulary and usage.",
+  "showProgressBar": true,
+  "pages": [
+    {
+      "name": "part_1",
+      "elements": [
+        {
+          "type": "radiogroup",
+          "name": "q031_priceless",
+          "title": "The archive held a ___ manuscript that could never be replaced.",
+          "isRequired": true,
+          "choices": [
+            "commonplace",
+            "disposable",
+            "priceless",
+            "worthless"
+          ],
+          "correctAnswer": "priceless"
+        },
+        {
+          "type": "radiogroup",
+          "name": "q032_burglary",
+          "title": "Someone broke into the shop overnight and stole the cash. Which word describes this?",
+          "isRequired": true,
+          "choices": [
+            "arson",
+            "burglary",
+            "blackmail",
+            "forgery"
+          ],
+          "correctAnswer": "burglary"
+        },
+        {
+          "type": "radiogroup",
+          "name": "q033_race_against_time",
+          "title": "What does the deadline metaphor mean in “We're in a race against time to finish”?",
+          "isRequired": true,
+          "choices": [
+            "The easiest task is already complete.",
+            "Several people are tied for first.",
+            "Nobody knows when work will start.",
+            "There is very little time left."
+          ],
+          "correctAnswer": "There is very little time left."
+        },
+        {
+          "type": "radiogroup",
+          "name": "q034_historic_dawn",
+          "title": "The launch marked the ___ of a new era in public transport.",
+          "isRequired": true,
+          "choices": [
+            "final collapse",
+            "false alarm",
+            "historic dawn",
+            "ordinary delay"
+          ],
+          "correctAnswer": "historic dawn"
+        },
+        {
+          "type": "radiogroup",
+          "name": "q035_one_thing_ends_another_begins",
+          "title": "Which expression suggests that a fresh opportunity follows a conclusion?",
+          "isRequired": true,
+          "choices": [
+            "One chapter ends, another begins.",
+            "The early bird catches the worm.",
+            "Two wrongs don't make a right.",
+            "Better late than never."
+          ],
+          "correctAnswer": "One chapter ends, another begins."
+        }
+      ]
+    },
+    {
+      "name": "part_2",
+      "elements": [
+        {
+          "type": "radiogroup",
+          "name": "q036_the_easy_part",
+          "title": "Booking the venue was ___; paying for the event will be much harder.",
+          "isRequired": true,
+          "choices": [
+            "the turning point",
+            "the easy part",
+            "the last straw",
+            "the biggest obstacle"
+          ],
+          "correctAnswer": "the easy part"
+        },
+        {
+          "type": "radiogroup",
+          "name": "q037_surpass",
+          "title": "To set a record, she needed to ___ the previous fastest time by running even faster.",
+          "isRequired": true,
+          "choices": [
+            "surpass",
+            "match",
+            "confirm",
+            "repeat"
+          ],
+          "correctAnswer": "surpass"
+        },
+        {
+          "type": "radiogroup",
+          "name": "q038_primary_source",
+          "title": "If a farm gets most of its water from a single well, that well is its ___ of water.",
+          "isRequired": true,
+          "choices": [
+            "last resort",
+            "primary source",
+            "minor contributor",
+            "backup option"
+          ],
+          "correctAnswer": "primary source"
+        },
+        {
+          "type": "radiogroup",
+          "name": "q039_demand",
+          "title": "When the game sold out within minutes, the shop ordered more copies to meet ___.",
+          "isRequired": true,
+          "choices": [
+            "overheads",
+            "payroll",
+            "demand",
+            "supply"
+          ],
+          "correctAnswer": "demand"
+        },
+        {
+          "type": "radiogroup",
+          "name": "q040_stamp_out",
+          "title": "The school introduced tougher measures to ___ bullying entirely.",
+          "isRequired": true,
+          "choices": [
+            "write about",
+            "brush aside",
+            "stamp out",
+            "stir up"
+          ],
+          "correctAnswer": "stamp out"
+        }
+      ]
+    }
+  ]
+}

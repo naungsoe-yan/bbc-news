@@ -1,0 +1,147 @@
+{
+  "title": "BBC Learning English from the News 2026 — Quiz 13",
+  "description": "Choose the best answer for each question about vocabulary and usage.",
+  "showProgressBar": true,
+  "pages": [
+    {
+      "name": "part_1",
+      "elements": [
+        {
+          "type": "radiogroup",
+          "name": "q121_make_history",
+          "title": "The athlete hoped to ___ by becoming the first person from her country to win the event.",
+          "isRequired": true,
+          "choices": [
+            "follow tradition",
+            "make history",
+            "repeat a previous result",
+            "rewrite the rules"
+          ],
+          "correctAnswer": "make history"
+        },
+        {
+          "type": "radiogroup",
+          "name": "q122_ode_to",
+          "title": "The film is an ___ to railway workers, celebrating their skill and dedication.",
+          "isRequired": true,
+          "choices": [
+            "ode",
+            "objection",
+            "alternative",
+            "exception"
+          ],
+          "correctAnswer": "ode"
+        },
+        {
+          "type": "radiogroup",
+          "name": "q123_pizzazz",
+          "title": "The performance had plenty of ___, thanks to its bold costumes and energetic dancing.",
+          "isRequired": true,
+          "choices": [
+            "pizzazz",
+            "solemnity",
+            "reserve",
+            "stillness"
+          ],
+          "correctAnswer": "pizzazz"
+        },
+        {
+          "type": "radiogroup",
+          "name": "q124_covertly",
+          "title": "They rehearsed ___ so their friends would not find out about the surprise performance.",
+          "isRequired": true,
+          "choices": [
+            "in full view",
+            "openly",
+            "covertly",
+            "publicly"
+          ],
+          "correctAnswer": "covertly"
+        },
+        {
+          "type": "radiogroup",
+          "name": "q125_hit_on_someone",
+          "title": "In informal English, what does it mean to “hit on someone” at a party?",
+          "isRequired": true,
+          "choices": [
+            "Show romantic interest by flirting with them",
+            "Ask them to leave the party",
+            "Accidentally bump into them",
+            "Congratulate them on an achievement"
+          ],
+          "correctAnswer": "Show romantic interest by flirting with them"
+        }
+      ]
+    },
+    {
+      "name": "part_2",
+      "elements": [
+        {
+          "type": "radiogroup",
+          "name": "q126_troll",
+          "title": "A user began to ___ the discussion, posting insulting comments just to upset people.",
+          "isRequired": true,
+          "choices": [
+            "troll",
+            "moderate",
+            "summarise",
+            "archive"
+          ],
+          "correctAnswer": "troll"
+        },
+        {
+          "type": "radiogroup",
+          "name": "q127_stark",
+          "title": "The report draws a ___ contrast between the two towns: one is thriving while the other is losing jobs.",
+          "isRequired": true,
+          "choices": [
+            "uncertain",
+            "barely perceptible",
+            "stark",
+            "faint"
+          ],
+          "correctAnswer": "stark"
+        },
+        {
+          "type": "radiogroup",
+          "name": "q128_hold_your_breath",
+          "title": "Which figurative meaning fits “Fans are holding their breath for the final result”?",
+          "isRequired": true,
+          "choices": [
+            "They are ignoring the result completely.",
+            "They are waiting with nervous anticipation.",
+            "They are competing to see who can stay underwater longest.",
+            "They think the result is already final."
+          ],
+          "correctAnswer": "They are waiting with nervous anticipation."
+        },
+        {
+          "type": "radiogroup",
+          "name": "q129_every_second_counts",
+          "title": "When an urgent deadline is moments away, what does “every second counts” mean?",
+          "isRequired": true,
+          "choices": [
+            "Even a tiny delay matters.",
+            "One person is counting aloud.",
+            "The deadline can safely be ignored.",
+            "Only complete minutes matter."
+          ],
+          "correctAnswer": "Even a tiny delay matters."
+        },
+        {
+          "type": "radiogroup",
+          "name": "q130_ground_zero",
+          "title": "What does “ground zero” mean in “The neighbourhood became ground zero for the new music scene”?",
+          "isRequired": true,
+          "choices": [
+            "It was the last place the music reached.",
+            "It was a place where music was banned.",
+            "It was a venue the musicians avoided.",
+            "It was the place where the scene started."
+          ],
+          "correctAnswer": "It was the place where the scene started."
+        }
+      ]
+    }
+  ]
+}

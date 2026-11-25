@@ -1,0 +1,147 @@
+{
+  "title": "BBC Learning English from the News 2025 — Quiz 5",
+  "description": "Choose the best answer for each question about vocabulary and usage.",
+  "showProgressBar": true,
+  "pages": [
+    {
+      "name": "part_1",
+      "elements": [
+        {
+          "type": "radiogroup",
+          "name": "q041_abyss",
+          "title": "Without support, the business could sink into an ___ of mounting debt that it might never escape.",
+          "isRequired": true,
+          "choices": [
+            "era",
+            "abyss",
+            "detour",
+            "oasis"
+          ],
+          "correctAnswer": "abyss"
+        },
+        {
+          "type": "radiogroup",
+          "name": "q042_last_hope",
+          "title": "With every other route closed, catching the last ferry was their ___ of getting home that night.",
+          "isRequired": true,
+          "choices": [
+            "early warning",
+            "usual routine",
+            "first preference",
+            "last hope"
+          ],
+          "correctAnswer": "last hope"
+        },
+        {
+          "type": "radiogroup",
+          "name": "q043_push_back",
+          "title": "Residents began to ___ against the closure by circulating a petition.",
+          "isRequired": true,
+          "choices": [
+            "push back",
+            "give in",
+            "fall in line",
+            "step aside"
+          ],
+          "correctAnswer": "push back"
+        },
+        {
+          "type": "radiogroup",
+          "name": "q044_dose",
+          "title": "The presenter added a generous ___ of humour to an otherwise serious speech.",
+          "isRequired": true,
+          "choices": [
+            "absence",
+            "dose",
+            "pause",
+            "shortage"
+          ],
+          "correctAnswer": "dose"
+        },
+        {
+          "type": "radiogroup",
+          "name": "q045_debunk",
+          "title": "The researcher used records and photographs to ___ the claim that the bridge had never existed.",
+          "isRequired": true,
+          "choices": [
+            "debunk",
+            "repeat",
+            "spread",
+            "endorse"
+          ],
+          "correctAnswer": "debunk"
+        }
+      ]
+    },
+    {
+      "name": "part_2",
+      "elements": [
+        {
+          "type": "radiogroup",
+          "name": "q046_rising_chorus",
+          "title": "The council heard a ___ of complaints as more residents joined in.",
+          "isRequired": true,
+          "choices": [
+            "rising chorus",
+            "lone voice",
+            "quiet pause",
+            "single reply"
+          ],
+          "correctAnswer": "rising chorus"
+        },
+        {
+          "type": "radiogroup",
+          "name": "q047_hold_someone_or_something_responsible",
+          "title": "The inquiry will decide whether to hold the contractor ___ for the damage.",
+          "isRequired": true,
+          "choices": [
+            "in high regard",
+            "responsible",
+            "in reserve",
+            "in contempt"
+          ],
+          "correctAnswer": "responsible"
+        },
+        {
+          "type": "radiogroup",
+          "name": "q048_sloppy",
+          "title": "The rushed report was ___, with spelling mistakes and missing totals.",
+          "isRequired": true,
+          "choices": [
+            "thorough",
+            "sloppy",
+            "polished",
+            "meticulous"
+          ],
+          "correctAnswer": "sloppy"
+        },
+        {
+          "type": "radiogroup",
+          "name": "q049_nickname",
+          "title": "The children decided to ___ their dog “Professor” because he always looked so serious.",
+          "isRequired": true,
+          "choices": [
+            "adopt",
+            "train",
+            "nickname",
+            "groom"
+          ],
+          "correctAnswer": "nickname"
+        },
+        {
+          "type": "radiogroup",
+          "name": "q050_whiz",
+          "title": "Ravi is a spreadsheet ___ who can fix even the most complicated formulas.",
+          "isRequired": true,
+          "choices": [
+            "critic",
+            "whiz",
+            "spectator",
+            "novice"
+          ],
+          "correctAnswer": "whiz"
+        }
+      ]
+    }
+  ]
+}

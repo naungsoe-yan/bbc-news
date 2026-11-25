@@ -1,0 +1,147 @@
+{
+  "title": "BBC Learning English from the News 2025 — Quiz 8",
+  "description": "Choose the best answer for each question about vocabulary and usage.",
+  "showProgressBar": true,
+  "pages": [
+    {
+      "name": "part_1",
+      "elements": [
+        {
+          "type": "radiogroup",
+          "name": "q071_drip_feed",
+          "title": "Instead of announcing everything at once, the company chose to ___ the details over several weeks.",
+          "isRequired": true,
+          "choices": [
+            "deny",
+            "withhold",
+            "drip-feed",
+            "summarise"
+          ],
+          "correctAnswer": "drip-feed"
+        },
+        {
+          "type": "radiogroup",
+          "name": "q072_point_fingers",
+          "title": "Instead of trying to fix the mistake, the managers started to ___ at one another.",
+          "isRequired": true,
+          "choices": [
+            "compare prices",
+            "point fingers",
+            "join forces",
+            "take notes"
+          ],
+          "correctAnswer": "point fingers"
+        },
+        {
+          "type": "radiogroup",
+          "name": "q073_swirl",
+          "title": "Different rumours continued to ___ as people speculated about why the director had left.",
+          "isRequired": true,
+          "choices": [
+            "vanish",
+            "settle",
+            "swirl",
+            "converge"
+          ],
+          "correctAnswer": "swirl"
+        },
+        {
+          "type": "radiogroup",
+          "name": "q074_still_remains_unanswered",
+          "title": "Weeks later, the question of how the fire started ___. No explanation has been offered.",
+          "isRequired": true,
+          "choices": [
+            "still remains unanswered",
+            "has been put to rest",
+            "no longer matters",
+            "has been fully resolved"
+          ],
+          "correctAnswer": "still remains unanswered"
+        },
+        {
+          "type": "radiogroup",
+          "name": "q075_hold_up",
+          "title": "The explanation sounded convincing initially, but would it ___ when checked against the records?",
+          "isRequired": true,
+          "choices": [
+            "fall apart",
+            "fade away",
+            "give way",
+            "hold up"
+          ],
+          "correctAnswer": "hold up"
+        }
+      ]
+    },
+    {
+      "name": "part_2",
+      "elements": [
+        {
+          "type": "radiogroup",
+          "name": "q076_speak_out",
+          "title": "Several employees decided to ___ publicly about unsafe conditions at work.",
+          "isRequired": true,
+          "choices": [
+            "speak out",
+            "keep quiet",
+            "stand down",
+            "hold back"
+          ],
+          "correctAnswer": "speak out"
+        },
+        {
+          "type": "radiogroup",
+          "name": "q077_catch_someone_by_surprise",
+          "title": "Which expression means “happen unexpectedly enough to surprise someone”?",
+          "isRequired": true,
+          "choices": [
+            "take someone at their word",
+            "keep someone in the loop",
+            "give someone a head start",
+            "catch someone by surprise"
+          ],
+          "correctAnswer": "catch someone by surprise"
+        },
+        {
+          "type": "radiogroup",
+          "name": "q078_face_scrutiny",
+          "title": "After the error was discovered, the company's accounts began to ___ from independent auditors.",
+          "isRequired": true,
+          "choices": [
+            "face scrutiny",
+            "escape notice",
+            "earn praise",
+            "gain immunity"
+          ],
+          "correctAnswer": "face scrutiny"
+        },
+        {
+          "type": "radiogroup",
+          "name": "q079_sweltering",
+          "title": "The office was ___ after the air conditioning broke during the heatwave.",
+          "isRequired": true,
+          "choices": [
+            "chilly",
+            "frosty",
+            "sweltering",
+            "draughty"
+          ],
+          "correctAnswer": "sweltering"
+        },
+        {
+          "type": "radiogroup",
+          "name": "q080_take_the_brunt_of",
+          "title": "The village nearest the coast will ___ the storm, experiencing the worst damage.",
+          "isRequired": true,
+          "choices": [
+            "be sheltered from",
+            "take the brunt of",
+            "hear the last of",
+            "keep clear of"
+          ],
+          "correctAnswer": "take the brunt of"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,147 @@
+{
+  "title": "BBC Learning English from the News 2026 — Quiz 10",
+  "description": "Choose the best answer for each question about vocabulary and usage.",
+  "showProgressBar": true,
+  "pages": [
+    {
+      "name": "part_1",
+      "elements": [
+        {
+          "type": "radiogroup",
+          "name": "q091_wounded",
+          "title": "Several players were ___ by flying glass when a window broke.",
+          "isRequired": true,
+          "choices": [
+            "reassured",
+            "protected",
+            "unhurt",
+            "wounded"
+          ],
+          "correctAnswer": "wounded"
+        },
+        {
+          "type": "radiogroup",
+          "name": "q092_open_fire",
+          "title": "Which expression means “start shooting” in a novel or a news report?",
+          "isRequired": true,
+          "choices": [
+            "hold fire",
+            "fight a fire",
+            "open fire",
+            "cease fire"
+          ],
+          "correctAnswer": "open fire"
+        },
+        {
+          "type": "radiogroup",
+          "name": "q093_chilling",
+          "title": "The witness gave a ___ account that left listeners deeply frightened.",
+          "isRequired": true,
+          "choices": [
+            "chilling",
+            "light-hearted",
+            "comforting",
+            "heartening"
+          ],
+          "correctAnswer": "chilling"
+        },
+        {
+          "type": "radiogroup",
+          "name": "q094_swept_away",
+          "title": "The current ___ the floating dock and carried it downstream.",
+          "isRequired": true,
+          "choices": [
+            "held in place",
+            "secured",
+            "anchored",
+            "swept away"
+          ],
+          "correctAnswer": "swept away"
+        },
+        {
+          "type": "radiogroup",
+          "name": "q095_brick_by_brick",
+          "title": "The volunteers rebuilt the organisation ___, solving one small problem at a time.",
+          "isRequired": true,
+          "choices": [
+            "brick by brick",
+            "out of the blue",
+            "at a single stroke",
+            "in one fell swoop"
+          ],
+          "correctAnswer": "brick by brick"
+        }
+      ]
+    },
+    {
+      "name": "part_2",
+      "elements": [
+        {
+          "type": "radiogroup",
+          "name": "q096_kindred_spirit",
+          "title": "They quickly bonded over the same unusual interests. Each had found a ___.",
+          "isRequired": true,
+          "choices": [
+            "fierce rival",
+            "kindred spirit",
+            "casual acquaintance",
+            "stern critic"
+          ],
+          "correctAnswer": "kindred spirit"
+        },
+        {
+          "type": "radiogroup",
+          "name": "q097_a_new_dawn",
+          "title": "The reopening marked ___ for the neighbourhood, as long-empty shops began to fill again.",
+          "isRequired": true,
+          "choices": [
+            "a new dawn",
+            "the end of an era",
+            "a final setback",
+            "a missed chance"
+          ],
+          "correctAnswer": "a new dawn"
+        },
+        {
+          "type": "radiogroup",
+          "name": "q098_lose_contact_with",
+          "title": "After changing numbers and moving abroad, he began to ___ old friends he used to speak to weekly.",
+          "isRequired": true,
+          "choices": [
+            "lose contact with",
+            "catch up with",
+            "keep in touch with",
+            "reconnect with"
+          ],
+          "correctAnswer": "lose contact with"
+        },
+        {
+          "type": "radiogroup",
+          "name": "q099_a_big_deal",
+          "title": "“Getting that scholarship is a big deal for Mina.” What does the speaker mean?",
+          "isRequired": true,
+          "choices": [
+            "She is planning to turn it down.",
+            "She must pay a large fee for it.",
+            "It is an ordinary part of her routine.",
+            "It is very important to her."
+          ],
+          "correctAnswer": "It is very important to her."
+        },
+        {
+          "type": "radiogroup",
+          "name": "q100_having_a_moment",
+          "title": "“She’s having a moment after hearing the news. Give her a minute.” What does the phrase suggest here?",
+          "isRequired": true,
+          "choices": [
+            "She is forgetting what happened.",
+            "She is waiting for an appointment.",
+            "She is becoming fashionable.",
+            "She is feeling strong emotions for a short time."
+          ],
+          "correctAnswer": "She is feeling strong emotions for a short time."
+        }
+      ]
+    }
+  ]
+}

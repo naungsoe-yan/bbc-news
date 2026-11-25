@@ -1,0 +1,147 @@
+{
+  "title": "BBC Learning English from the News 2025 — Quiz 14",
+  "description": "Choose the best answer for each question about vocabulary and usage.",
+  "showProgressBar": true,
+  "pages": [
+    {
+      "name": "part_1",
+      "elements": [
+        {
+          "type": "radiogroup",
+          "name": "q131_unparalleled",
+          "title": "No other athlete had achieved anything comparable, so her record was described as ___.",
+          "isRequired": true,
+          "choices": [
+            "standard",
+            "typical",
+            "unparalleled",
+            "ordinary"
+          ],
+          "correctAnswer": "unparalleled"
+        },
+        {
+          "type": "radiogroup",
+          "name": "q132_damning",
+          "title": "The audit was ___: it provided compelling evidence of serious failures.",
+          "isRequired": true,
+          "choices": [
+            "reassuring",
+            "inconclusive",
+            "damning",
+            "favourable"
+          ],
+          "correctAnswer": "damning"
+        },
+        {
+          "type": "radiogroup",
+          "name": "q133_bombshell",
+          "title": "The news that the shop would close tomorrow came as a ___ to staff who expected it to stay open.",
+          "isRequired": true,
+          "choices": [
+            "formality",
+            "minor detail",
+            "bombshell",
+            "routine update"
+          ],
+          "correctAnswer": "bombshell"
+        },
+        {
+          "type": "radiogroup",
+          "name": "q134_blow_something_out_the_water",
+          "title": "The new evidence blew the old theory ___ by showing it could not be true.",
+          "isRequired": true,
+          "choices": [
+            "out of proportion",
+            "into the spotlight",
+            "under the radar",
+            "out of the water"
+          ],
+          "correctAnswer": "out of the water"
+        },
+        {
+          "type": "radiogroup",
+          "name": "q135_shed_light_on",
+          "title": "These letters could ___ what really happened by revealing details nobody knew.",
+          "isRequired": true,
+          "choices": [
+            "draw attention away from",
+            "shed light on",
+            "cast doubt on",
+            "cover up"
+          ],
+          "correctAnswer": "shed light on"
+        }
+      ]
+    },
+    {
+      "name": "part_2",
+      "elements": [
+        {
+          "type": "radiogroup",
+          "name": "q136_gear_up",
+          "title": "The shop is starting to ___ for the busy holiday season by hiring extra staff.",
+          "isRequired": true,
+          "choices": [
+            "slow down",
+            "gear up",
+            "wind down",
+            "close up"
+          ],
+          "correctAnswer": "gear up"
+        },
+        {
+          "type": "radiogroup",
+          "name": "q137_end_game",
+          "title": "The negotiations have entered the ___, with only the final terms left to settle.",
+          "isRequired": true,
+          "choices": [
+            "trial phase",
+            "end game",
+            "opening round",
+            "planning stage"
+          ],
+          "correctAnswer": "end game"
+        },
+        {
+          "type": "radiogroup",
+          "name": "q138_split",
+          "title": "The committee was ___ on the proposal, with members arguing for and against it.",
+          "isRequired": true,
+          "choices": [
+            "absent",
+            "impartial",
+            "unanimous",
+            "split"
+          ],
+          "correctAnswer": "split"
+        },
+        {
+          "type": "radiogroup",
+          "name": "q139_on_the_verge_of",
+          "title": "The glass was ___ breaking when the shelf began to bend.",
+          "isRequired": true,
+          "choices": [
+            "on the verge of",
+            "instead of",
+            "in the habit of",
+            "far from"
+          ],
+          "correctAnswer": "on the verge of"
+        },
+        {
+          "type": "radiogroup",
+          "name": "q140_suspend",
+          "title": "Because of the inspection, the railway will ___ services until further notice.",
+          "isRequired": true,
+          "choices": [
+            "extend",
+            "suspend",
+            "increase",
+            "resume"
+          ],
+          "correctAnswer": "suspend"
+        }
+      ]
+    }
+  ]
+}

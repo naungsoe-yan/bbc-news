@@ -1,0 +1,147 @@
+{
+  "title": "BBC Learning English from the News 2024 — Quiz 5",
+  "description": "Choose the best answer for each question about vocabulary and usage.",
+  "showProgressBar": true,
+  "pages": [
+    {
+      "name": "part_1",
+      "elements": [
+        {
+          "type": "radiogroup",
+          "name": "q41_slams_into",
+          "title": "A shopping trolley slams into a wall. How does it hit the wall?",
+          "isRequired": true,
+          "choices": [
+            "Repeatedly",
+            "Forcefully",
+            "Silently",
+            "Gently"
+          ],
+          "correctAnswer": "Forcefully"
+        },
+        {
+          "type": "radiogroup",
+          "name": "q42_mop_up",
+          "title": "Could you mop up the water by the sink? What are you being asked to do?",
+          "isRequired": true,
+          "choices": [
+            "Turn off the tap",
+            "Find out where the water came from",
+            "Clean up the spilled water",
+            "Fill the sink with water"
+          ],
+          "correctAnswer": "Clean up the spilled water"
+        },
+        {
+          "type": "radiogroup",
+          "name": "q43_enough_is_enough",
+          "title": "“Enough is enough. Neighbours can't keep leaving rubbish here.” Why does the speaker say “Enough is enough”?",
+          "isRequired": true,
+          "choices": [
+            "To say the issue has already been resolved",
+            "To ask how much rubbish there is",
+            "To say the behaviour must stop",
+            "To say there is enough rubbish to recycle"
+          ],
+          "correctAnswer": "To say the behaviour must stop"
+        },
+        {
+          "type": "radiogroup",
+          "name": "q44_pose",
+          "title": "“A loose handrail can pose a risk to visitors.” Which word could replace “pose” here?",
+          "isRequired": true,
+          "choices": [
+            "Disguise",
+            "Create",
+            "Calculate",
+            "Reduce"
+          ],
+          "correctAnswer": "Create"
+        },
+        {
+          "type": "radiogroup",
+          "name": "q45_spit_your_dummy_out",
+          "title": "In informal British English, what does it mean if someone “spits their dummy out” after losing a game?",
+          "isRequired": true,
+          "choices": [
+            "They take responsibility for losing.",
+            "They ask for another game politely.",
+            "They congratulate the winner.",
+            "They react in a childish way."
+          ],
+          "correctAnswer": "They react in a childish way."
+        }
+      ]
+    },
+    {
+      "name": "part_2",
+      "elements": [
+        {
+          "type": "radiogroup",
+          "name": "q46_reel_from",
+          "title": "Months later, the town was still reeling from the closure of its largest employer. How was the town affected?",
+          "isRequired": true,
+          "choices": [
+            "It was still shocked and unsettled.",
+            "It had already fully recovered.",
+            "It was unaware of the closure.",
+            "It was celebrating its economic growth."
+          ],
+          "correctAnswer": "It was still shocked and unsettled."
+        },
+        {
+          "type": "radiogroup",
+          "name": "q47_win_over",
+          "title": "Her clear explanation won over the sceptical audience. What did she achieve?",
+          "isRequired": true,
+          "choices": [
+            "Encouraged them to leave early",
+            "Prevented them from asking questions",
+            "Distracted them from her argument",
+            "Persuaded them to support her idea"
+          ],
+          "correctAnswer": "Persuaded them to support her idea"
+        },
+        {
+          "type": "radiogroup",
+          "name": "q48_from_the_sidelines",
+          "title": "Mina followed the dispute from the sidelines. How was she involved?",
+          "isRequired": true,
+          "choices": [
+            "She organised the negotiations.",
+            "She settled the dispute.",
+            "She publicly chose a side.",
+            "She watched without taking part."
+          ],
+          "correctAnswer": "She watched without taking part."
+        },
+        {
+          "type": "radiogroup",
+          "name": "q49_coming_for_us",
+          "title": "In a story, a character warns, “They're coming for us.” What does the character fear?",
+          "isRequired": true,
+          "choices": [
+            "The people mentioned plan to rescue them.",
+            "The people mentioned are waiting to be introduced.",
+            "The people mentioned have sent an invitation.",
+            "The people mentioned intend to target them."
+          ],
+          "correctAnswer": "The people mentioned intend to target them."
+        },
+        {
+          "type": "radiogroup",
+          "name": "q50_rallying_cry",
+          "title": "“Save our library!” became a rallying cry. What role did the phrase play?",
+          "isRequired": true,
+          "choices": [
+            "It announced a change to the library's hours.",
+            "It united people around a cause.",
+            "It ended debate about the library.",
+            "It explained how libraries are funded."
+          ],
+          "correctAnswer": "It united people around a cause."
+        }
+      ]
+    }
+  ]
+}

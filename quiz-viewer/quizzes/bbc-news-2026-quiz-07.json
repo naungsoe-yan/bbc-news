@@ -1,0 +1,147 @@
+{
+  "title": "BBC Learning English from the News 2026 — Quiz 7",
+  "description": "Choose the best answer for each question about vocabulary and usage.",
+  "showProgressBar": true,
+  "pages": [
+    {
+      "name": "part_1",
+      "elements": [
+        {
+          "type": "radiogroup",
+          "name": "q061_against_the_odds",
+          "title": "Their injury-hit team entered the final as an outsider but won ___.",
+          "isRequired": true,
+          "choices": [
+            "as a matter of course",
+            "well within expectations",
+            "without opposition",
+            "against the odds"
+          ],
+          "correctAnswer": "against the odds"
+        },
+        {
+          "type": "radiogroup",
+          "name": "q062_makeshift",
+          "title": "Staff used tables and sheets to put together a ___ shelter until proper tents arrived.",
+          "isRequired": true,
+          "choices": [
+            "purpose-built",
+            "makeshift",
+            "permanent",
+            "custom-designed"
+          ],
+          "correctAnswer": "makeshift"
+        },
+        {
+          "type": "radiogroup",
+          "name": "q063_negligence",
+          "title": "The report found ___: staff had failed to carry out basic safety checks, and someone was hurt.",
+          "isRequired": true,
+          "choices": [
+            "diligence",
+            "negligence",
+            "foresight",
+            "due care"
+          ],
+          "correctAnswer": "negligence"
+        },
+        {
+          "type": "radiogroup",
+          "name": "q064_downfall",
+          "title": "Once the fraud was revealed, the director's rapid ___ ended a career that had seemed secure.",
+          "isRequired": true,
+          "choices": [
+            "recovery",
+            "downfall",
+            "comeback",
+            "promotion"
+          ],
+          "correctAnswer": "downfall"
+        },
+        {
+          "type": "radiogroup",
+          "name": "q065_malaise",
+          "title": "A general feeling of low energy and unease settled over the office. Which word describes it?",
+          "isRequired": true,
+          "choices": [
+            "enthusiasm",
+            "excitement",
+            "malaise",
+            "elation"
+          ],
+          "correctAnswer": "malaise"
+        }
+      ]
+    },
+    {
+      "name": "part_2",
+      "elements": [
+        {
+          "type": "radiogroup",
+          "name": "q066_a_hard_act_to_follow",
+          "title": "The retiring coach won five trophies. Her successor will have a hard act to follow. What does that mean?",
+          "isRequired": true,
+          "choices": [
+            "It will be difficult to understand her instructions.",
+            "It will be difficult to match her success.",
+            "She will choose who takes over the team.",
+            "She will still coach the team behind the scenes."
+          ],
+          "correctAnswer": "It will be difficult to match her success."
+        },
+        {
+          "type": "radiogroup",
+          "name": "q067_full_circle",
+          "title": "After travelling the world for years, Mia returned to teach at her old school. Her career had come ___.",
+          "isRequired": true,
+          "choices": [
+            "out of nowhere",
+            "to a halt",
+            "full circle",
+            "apart at the seams"
+          ],
+          "correctAnswer": "full circle"
+        },
+        {
+          "type": "radiogroup",
+          "name": "q068_spin",
+          "title": "When asked about falling sales, the company tried to ___ the numbers as a sign of a healthier business.",
+          "isRequired": true,
+          "choices": [
+            "average",
+            "verify",
+            "spin",
+            "total"
+          ],
+          "correctAnswer": "spin"
+        },
+        {
+          "type": "radiogroup",
+          "name": "q069_tacit",
+          "title": "No one said yes aloud, but their willingness to proceed signalled ___ approval.",
+          "isRequired": true,
+          "choices": [
+            "tacit",
+            "written",
+            "formalised",
+            "explicit"
+          ],
+          "correctAnswer": "tacit"
+        },
+        {
+          "type": "radiogroup",
+          "name": "q070_put_something_or_someone_to_the_test",
+          "title": "The long hike will put their new boots ___: the terrain will show whether the boots are durable.",
+          "isRequired": true,
+          "choices": [
+            "to the test",
+            "out of reach",
+            "on display",
+            "in reserve"
+          ],
+          "correctAnswer": "to the test"
+        }
+      ]
+    }
+  ]
+}

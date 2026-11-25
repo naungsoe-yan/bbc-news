@@ -1,0 +1,147 @@
+{
+  "title": "BBC Learning English from the News 2026 — Quiz 4",
+  "description": "Choose the best answer for each question about vocabulary and usage.",
+  "showProgressBar": true,
+  "pages": [
+    {
+      "name": "part_1",
+      "elements": [
+        {
+          "type": "radiogroup",
+          "name": "q031_transplant",
+          "title": "Once the saplings are strong enough, gardeners will ___ them from their pots into the ground.",
+          "isRequired": true,
+          "choices": [
+            "water",
+            "transplant",
+            "trim",
+            "label"
+          ],
+          "correctAnswer": "transplant"
+        },
+        {
+          "type": "radiogroup",
+          "name": "q032_first_of_its_kind",
+          "title": "The organisers called it a ___ exhibition because nobody had ever staged a show like it before.",
+          "isRequired": true,
+          "choices": [
+            "first-of-its-kind",
+            "much-repeated",
+            "long-running",
+            "well-established"
+          ],
+          "correctAnswer": "first-of-its-kind"
+        },
+        {
+          "type": "radiogroup",
+          "name": "q033_bridge",
+          "title": "The temporary grant acts as a ___ until permanent funding arrives.",
+          "isRequired": true,
+          "choices": [
+            "penalty",
+            "deadline",
+            "barrier",
+            "bridge"
+          ],
+          "correctAnswer": "bridge"
+        },
+        {
+          "type": "radiogroup",
+          "name": "q034_not_over",
+          "title": "“The competition is not over.” What is the speaker saying?",
+          "isRequired": true,
+          "choices": [
+            "The competition was cancelled before it started.",
+            "The winners have already been announced.",
+            "There is still more of the competition to come.",
+            "The final results can no longer change."
+          ],
+          "correctAnswer": "There is still more of the competition to come."
+        },
+        {
+          "type": "radiogroup",
+          "name": "q035_trigger",
+          "title": "A sharp noise can ___ the alarm, causing it to sound immediately.",
+          "isRequired": true,
+          "choices": [
+            "muffle",
+            "silence",
+            "trigger",
+            "dampen"
+          ],
+          "correctAnswer": "trigger"
+        }
+      ]
+    },
+    {
+      "name": "part_2",
+      "elements": [
+        {
+          "type": "radiogroup",
+          "name": "q036_wipe_out",
+          "title": "The corrupted file could ___ all our saved work if the only copy is unreadable.",
+          "isRequired": true,
+          "choices": [
+            "sort through",
+            "wipe out",
+            "back up",
+            "fall back on"
+          ],
+          "correctAnswer": "wipe out"
+        },
+        {
+          "type": "radiogroup",
+          "name": "q037_go_rogue",
+          "title": "What does it mean if a character decides to “go rogue” during a mission in a novel?",
+          "isRequired": true,
+          "choices": [
+            "The character acts independently and ignores the plan.",
+            "The character withdraws before the mission starts.",
+            "The character asks permission at every step.",
+            "The character follows instructions exactly."
+          ],
+          "correctAnswer": "The character acts independently and ignores the plan."
+        },
+        {
+          "type": "radiogroup",
+          "name": "q038_spree",
+          "title": "The shop's sale led to a spending ___, with customers making several purchases in a few hours.",
+          "isRequired": true,
+          "choices": [
+            "ban",
+            "spree",
+            "pause",
+            "freeze"
+          ],
+          "correctAnswer": "spree"
+        },
+        {
+          "type": "radiogroup",
+          "name": "q039_overdone",
+          "title": "The reviewer thought the acting was ___: every minor setback was played as a tragedy.",
+          "isRequired": true,
+          "choices": [
+            "subtle",
+            "restrained",
+            "naturalistic",
+            "overdone"
+          ],
+          "correctAnswer": "overdone"
+        },
+        {
+          "type": "radiogroup",
+          "name": "q040_pivotal",
+          "title": "The vote was ___ because its outcome would determine whether the project could proceed.",
+          "isRequired": true,
+          "choices": [
+            "irrelevant",
+            "symbolic",
+            "routine",
+            "pivotal"
+          ],
+          "correctAnswer": "pivotal"
+        }
+      ]
+    }
+  ]
+}

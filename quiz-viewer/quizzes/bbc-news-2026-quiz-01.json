@@ -1,0 +1,147 @@
+{
+  "title": "BBC Learning English from the News 2026 — Quiz 1",
+  "description": "Choose the best answer for each question about vocabulary and usage.",
+  "showProgressBar": true,
+  "pages": [
+    {
+      "name": "part_1",
+      "elements": [
+        {
+          "type": "radiogroup",
+          "name": "q001_doesn_t_add_up",
+          "title": "He says he was away all day, but three people saw him at work. His story ___.",
+          "isRequired": true,
+          "choices": [
+            "rings true",
+            "holds up",
+            "checks out",
+            "doesn't add up"
+          ],
+          "correctAnswer": "doesn't add up"
+        },
+        {
+          "type": "radiogroup",
+          "name": "q002_screen",
+          "title": "The clinic will ___ applicants for conditions that could make the trial unsafe for them.",
+          "isRequired": true,
+          "choices": [
+            "screen",
+            "praise",
+            "reward",
+            "hire"
+          ],
+          "correctAnswer": "screen"
+        },
+        {
+          "type": "radiogroup",
+          "name": "q003_stern",
+          "title": "The teacher gave a ___ warning and made clear that no further delays would be tolerated.",
+          "isRequired": true,
+          "choices": [
+            "stern",
+            "playful",
+            "carefree",
+            "casual"
+          ],
+          "correctAnswer": "stern"
+        },
+        {
+          "type": "radiogroup",
+          "name": "q004_scraps",
+          "title": "Use those vegetable ___ to make stock instead of throwing them away.",
+          "isRequired": true,
+          "choices": [
+            "courses",
+            "servings",
+            "scraps",
+            "harvests"
+          ],
+          "correctAnswer": "scraps"
+        },
+        {
+          "type": "radiogroup",
+          "name": "q005_pure",
+          "title": "“The race was pure delight from start to finish.” What does “pure” emphasise here?",
+          "isRequired": true,
+          "choices": [
+            "The delight was brief.",
+            "The delight was shared.",
+            "The delight was unexpected.",
+            "The delight was complete."
+          ],
+          "correctAnswer": "The delight was complete."
+        }
+      ]
+    },
+    {
+      "name": "part_2",
+      "elements": [
+        {
+          "type": "radiogroup",
+          "name": "q006_root_to_tip",
+          "title": "The chef uses carrots from ___, cooking the tops as well as the rest of the plant.",
+          "isRequired": true,
+          "choices": [
+            "field to market",
+            "top shelf to bottom shelf",
+            "root to tip",
+            "farm to table"
+          ],
+          "correctAnswer": "root to tip"
+        },
+        {
+          "type": "radiogroup",
+          "name": "q007_on_alert",
+          "title": "With more storms possible, crews remained ___ and ready to respond.",
+          "isRequired": true,
+          "choices": [
+            "on leave",
+            "off duty",
+            "on alert",
+            "out of reach"
+          ],
+          "correctAnswer": "on alert"
+        },
+        {
+          "type": "radiogroup",
+          "name": "q008_spoiled",
+          "title": "The milk had ___ in the heat and smelled sour.",
+          "isRequired": true,
+          "choices": [
+            "spoiled",
+            "frozen",
+            "thawed",
+            "evaporated"
+          ],
+          "correctAnswer": "spoiled"
+        },
+        {
+          "type": "radiogroup",
+          "name": "q009_vulnerable",
+          "title": "A loose roof tile leaves the building ___ to water damage during storms.",
+          "isRequired": true,
+          "choices": [
+            "resistant",
+            "vulnerable",
+            "immune",
+            "impervious"
+          ],
+          "correctAnswer": "vulnerable"
+        },
+        {
+          "type": "radiogroup",
+          "name": "q010_turnaround",
+          "title": "The shop went from losing money to making a profit in three months. Staff called it a remarkable ___.",
+          "isRequired": true,
+          "choices": [
+            "decline",
+            "setback",
+            "turnaround",
+            "standstill"
+          ],
+          "correctAnswer": "turnaround"
+        }
+      ]
+    }
+  ]
+}

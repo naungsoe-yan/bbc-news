@@ -1,0 +1,147 @@
+{
+  "title": "BBC Learning English from the News 2025 — Quiz 11",
+  "description": "Choose the best answer for each question about vocabulary and usage.",
+  "showProgressBar": true,
+  "pages": [
+    {
+      "name": "part_1",
+      "elements": [
+        {
+          "type": "radiogroup",
+          "name": "q101_halve",
+          "title": "To ___ a recipe calling for 200 grams of flour, use 100 grams.",
+          "isRequired": true,
+          "choices": [
+            "halve",
+            "triple",
+            "quadruple",
+            "double"
+          ],
+          "correctAnswer": "halve"
+        },
+        {
+          "type": "radiogroup",
+          "name": "q102_slim_down",
+          "title": "He changed his eating habits and began to ___, so his old jacket now feels loose.",
+          "isRequired": true,
+          "choices": [
+            "bulk up",
+            "fill out",
+            "slim down",
+            "put on weight"
+          ],
+          "correctAnswer": "slim down"
+        },
+        {
+          "type": "radiogroup",
+          "name": "q103_caught_on_camera",
+          "title": "The missing food mystery was solved when the cat was ___ opening the cupboard in the security footage.",
+          "isRequired": true,
+          "choices": [
+            "heard on the radio",
+            "caught on camera",
+            "kept out of sight",
+            "cleared of blame"
+          ],
+          "correctAnswer": "caught on camera"
+        },
+        {
+          "type": "radiogroup",
+          "name": "q104_packs_a_punch",
+          "title": "This small speaker ___: it can fill the whole room with sound.",
+          "isRequired": true,
+          "choices": [
+            "strikes a balance",
+            "packs a punch",
+            "sets the pace",
+            "misses a beat"
+          ],
+          "correctAnswer": "packs a punch"
+        },
+        {
+          "type": "radiogroup",
+          "name": "q105_slack_off",
+          "title": "When the supervisor is away, the team sometimes starts to ___ and stops putting in much effort.",
+          "isRequired": true,
+          "choices": [
+            "press on",
+            "slack off",
+            "step up",
+            "pitch in"
+          ],
+          "correctAnswer": "slack off"
+        }
+      ]
+    },
+    {
+      "name": "part_2",
+      "elements": [
+        {
+          "type": "radiogroup",
+          "name": "q106_blackout",
+          "title": "A power failure caused a ___, leaving every street in darkness.",
+          "isRequired": true,
+          "choices": [
+            "blackout",
+            "gridlock",
+            "heatwave",
+            "flash flood"
+          ],
+          "correctAnswer": "blackout"
+        },
+        {
+          "type": "radiogroup",
+          "name": "q107_woefully",
+          "title": "The venue was ___ unprepared: there was no seating, electricity or running water.",
+          "isRequired": true,
+          "choices": [
+            "adequately",
+            "thoroughly",
+            "amply",
+            "woefully"
+          ],
+          "correctAnswer": "woefully"
+        },
+        {
+          "type": "radiogroup",
+          "name": "q108_rule_out",
+          "title": "The mechanic tested the battery to ___ a battery fault as the cause.",
+          "isRequired": true,
+          "choices": [
+            "look for",
+            "point to",
+            "rule out",
+            "bank on"
+          ],
+          "correctAnswer": "rule out"
+        },
+        {
+          "type": "radiogroup",
+          "name": "q109_down_to_earth",
+          "title": "Despite becoming famous, she remained ___ and never acted as if she were more important than others.",
+          "isRequired": true,
+          "choices": [
+            "pretentious",
+            "aloof",
+            "self-important",
+            "down-to-earth"
+          ],
+          "correctAnswer": "down-to-earth"
+        },
+        {
+          "type": "radiogroup",
+          "name": "q110_pay_respects",
+          "title": "Which expression is most appropriate when describing a visit to a grave to honour the person buried there?",
+          "isRequired": true,
+          "choices": [
+            "pay a compliment",
+            "pay one's respects",
+            "pay one's way",
+            "pay one's dues"
+          ],
+          "correctAnswer": "pay one's respects"
+        }
+      ]
+    }
+  ]
+}

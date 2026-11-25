@@ -1,0 +1,147 @@
+{
+  "title": "BBC Learning English from the News 2024 — Quiz 3",
+  "description": "Choose the best answer for each question about vocabulary and usage.",
+  "showProgressBar": true,
+  "pages": [
+    {
+      "name": "part_1",
+      "elements": [
+        {
+          "type": "radiogroup",
+          "name": "q21_neck_and_neck",
+          "title": "The runners were neck and neck halfway through the race. What does this tell you?",
+          "isRequired": true,
+          "choices": [
+            "Both runners had stopped.",
+            "Neither runner had a clear lead.",
+            "One runner was far ahead.",
+            "They were racing on different courses."
+          ],
+          "correctAnswer": "Neither runner had a clear lead."
+        },
+        {
+          "type": "radiogroup",
+          "name": "q22_by_accident",
+          "title": "“I opened the wrong file by accident.” What does “by accident” mean?",
+          "isRequired": true,
+          "choices": [
+            "Without intending to",
+            "For a particular purpose",
+            "At someone's request",
+            "After careful consideration"
+          ],
+          "correctAnswer": "Without intending to"
+        },
+        {
+          "type": "radiogroup",
+          "name": "q23_hide_in_plain_sight",
+          "title": "The spare key was hiding in plain sight on the front desk. What does that mean?",
+          "isRequired": true,
+          "choices": [
+            "It was visible but went unnoticed.",
+            "It was locked away.",
+            "It was hidden under the desk.",
+            "It was almost impossible to reach."
+          ],
+          "correctAnswer": "It was visible but went unnoticed."
+        },
+        {
+          "type": "radiogroup",
+          "name": "q24_not_even_close",
+          "title": "“Was my estimate right?” “Not even close.” What does the reply imply?",
+          "isRequired": true,
+          "choices": [
+            "It was too early to assess the estimate.",
+            "The estimate was far from correct.",
+            "The estimate was exactly right.",
+            "The estimate was slightly low."
+          ],
+          "correctAnswer": "The estimate was far from correct."
+        },
+        {
+          "type": "radiogroup",
+          "name": "q25_scramble",
+          "title": "When the warning arrived, staff scrambled to move the equipment indoors. How did they respond?",
+          "isRequired": true,
+          "choices": [
+            "They delayed the work until the next day.",
+            "They decided to leave the equipment outside.",
+            "They acted quickly and urgently.",
+            "They followed their usual slow routine."
+          ],
+          "correctAnswer": "They acted quickly and urgently."
+        }
+      ]
+    },
+    {
+      "name": "part_2",
+      "elements": [
+        {
+          "type": "radiogroup",
+          "name": "q26_see_red",
+          "title": "She saw red when someone scratched her new bike. How did she feel?",
+          "isRequired": true,
+          "choices": [
+            "Deeply embarrassed",
+            "Mildly puzzled",
+            "Greatly relieved",
+            "Very angry"
+          ],
+          "correctAnswer": "Very angry"
+        },
+        {
+          "type": "radiogroup",
+          "name": "q27_mull_something_over",
+          "title": "“Can I mull over your offer before I reply?” What is the speaker asking to do?",
+          "isRequired": true,
+          "choices": [
+            "Explain the offer to someone else",
+            "Think carefully about the offer",
+            "Make a better offer in return",
+            "Accept the offer immediately"
+          ],
+          "correctAnswer": "Think carefully about the offer"
+        },
+        {
+          "type": "radiogroup",
+          "name": "q28_absorb",
+          "title": "The towel absorbed the spilled water. What did it do?",
+          "isRequired": true,
+          "choices": [
+            "Pushed the water away",
+            "Stopped the water from freezing",
+            "Took the water in",
+            "Heated the water up"
+          ],
+          "correctAnswer": "Took the water in"
+        },
+        {
+          "type": "radiogroup",
+          "name": "q29_carbon_sink",
+          "title": "Which example best fits the term “carbon sink”?",
+          "isRequired": true,
+          "choices": [
+            "A fan that blows air across a room",
+            "A forest that takes in and stores more carbon than it releases",
+            "A thermometer that measures air temperature",
+            "A chimney that releases carbon dioxide"
+          ],
+          "correctAnswer": "A forest that takes in and stores more carbon than it releases"
+        },
+        {
+          "type": "radiogroup",
+          "name": "q30_weaken",
+          "title": "Repeated washing can weaken the fabric. What does “weaken” mean?",
+          "isRequired": true,
+          "choices": [
+            "Make it less strong",
+            "Make it less colourful",
+            "Make it less expensive",
+            "Make it less visible"
+          ],
+          "correctAnswer": "Make it less strong"
+        }
+      ]
+    }
+  ]
+}
