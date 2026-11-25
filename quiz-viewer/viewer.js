@@ -1,6 +1,5 @@
 "use strict";
 
-const fileInput = document.querySelector("#quiz-file");
 const quizSelect = document.querySelector("#quiz-select");
 const catalogError = document.querySelector("#catalog-error");
 const restartButton = document.querySelector("#restart");
@@ -111,7 +110,7 @@ async function loadQuiz(filename, readContents) {
     }
 
     if (!definition || typeof definition !== "object" || Array.isArray(definition)) {
-      throw new Error("Choose a SurveyJS JSON file containing a survey object.");
+      throw new Error("The quiz does not contain a SurveyJS survey object.");
     }
 
     renderQuiz(definition, filename);
@@ -134,7 +133,7 @@ async function loadCatalog() {
     quizSelect.disabled = quizzes.length === 0;
   } catch {
     quizSelect.options[0].textContent = "Quiz list unavailable";
-    catalogError.textContent = "Open the hosted viewer for the quiz list, or choose a local quiz file.";
+    catalogError.textContent = "Open the hosted viewer to see the quiz list.";
     catalogError.hidden = false;
   }
 }
@@ -152,14 +151,6 @@ quizSelect.addEventListener("change", () => {
     if (!response.ok) throw new Error(`Could not load quiz (HTTP ${response.status}).`);
     return response.text();
   });
-});
-
-fileInput.addEventListener("change", () => {
-  const [file] = fileInput.files;
-  if (!file) return;
-  fileInput.value = "";
-  quizSelect.selectedIndex = 0;
-  loadQuiz(file.name, () => file.text());
 });
 
 loadCatalog();
